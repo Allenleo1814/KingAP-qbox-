@@ -1,0 +1,4229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Kits>
+	<Item>
+      <kitName>968_gstlostar1_modkit</kitName>
+      <id value="968" />	 	  
+      <kitType>MKT_SPECIAL</kitType>
+      <visibleMods>
+	  	<Item>
+          <modelName>gstlostar1_nobumf</modelName>
+          <modShopLabel>LOSTARNOBUMF</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_f</Item>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_acc_1</modelName><!--chrome slats-->
+          <modShopLabel>LOSTARBUMFACC1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_acc_3</modelName>
+          <modShopLabel>LOSTARBUMFBAR</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+	  	<Item>
+          <modelName>gstlostar1_bumf_1</modelName>
+          <modShopLabel>LOSTARBUMF1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_f</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_2</modelName>
+          <modShopLabel>LOSTARBUMF2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_f</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_2</modelName>
+          <modShopLabel>LOSTARBUMF2A</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_bumf_acc_2</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_f</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_2</modelName>
+          <modShopLabel>LOSTARBUMF2B</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_bumf_acc_3</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_f</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_3</modelName>
+          <modShopLabel>LOSTARBUMF3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_f</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_4</modelName>
+          <modShopLabel>LOSTARBUMF4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_f</Item>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_5</modelName>
+          <modShopLabel>LOSTARBUMF5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_f</Item>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_6</modelName>
+          <modShopLabel>LOSTARFSPLIT1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_6a</modelName>
+          <modShopLabel>LOSTARFSPLIT1A</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_6b</modelName>
+          <modShopLabel>LOSTARFSPLIT1B</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_7</modelName>
+          <modShopLabel>LOSTARFSPLIT2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_13</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_8</modelName>
+          <modShopLabel>LOSTARFSPLIT3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_13</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_9</modelName>
+          <modShopLabel>LOSTARFSPLIT4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_13</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_10</modelName>
+          <modShopLabel>LOSTARFSPLIT5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_13</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_2</modelName>
+          <modShopLabel>LOSTARFSPLIT6</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_bumf_6</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_f</Item>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_2</modelName>
+          <modShopLabel>LOSTARFSPLIT6A</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_bumf_6a</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_f</Item>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_2</modelName>
+          <modShopLabel>LOSTARFSPLIT6B</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_bumf_6b</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_f</Item>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_2</modelName>
+          <modShopLabel>LOSTARFSPLIT7</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_bumf_7</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_f</Item>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_13</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_2</modelName>
+          <modShopLabel>LOSTARFSPLIT8</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_bumf_8</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_f</Item>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_13</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_2</modelName>
+          <modShopLabel>LOSTARFSPLIT9</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_bumf_9</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_f</Item>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_13</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_2</modelName>
+          <modShopLabel>LOSTARFSPLIT10</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_bumf_10</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_f</Item>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_13</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_11</modelName>
+          <modShopLabel>LOSTARBUMF11</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_f</Item>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_13</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_12</modelName>
+          <modShopLabel>LOSTARBUMF12</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_f</Item>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_13</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_13</modelName>
+          <modShopLabel>LOSTARBUMF13</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_f</Item>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_13</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumf_14</modelName>
+          <modShopLabel>LOSTARBUMF14</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_f</Item>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_13</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumr_1</modelName>
+          <modShopLabel>LOSTARBUMR1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_g</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumr_2</modelName>
+          <modShopLabel>LOSTARBUMR2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_g</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumr_2</modelName>
+          <modShopLabel>LOSTARBUMR2A</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_bumr_acc_1</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_g</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumr_2</modelName>
+          <modShopLabel>LOSTARBUMR2B</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_bumr_acc_2</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_g</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumr_3</modelName>
+          <modShopLabel>LOSTARBUMR3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_g</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumr_4</modelName>
+          <modShopLabel>LOSTARRSPLIT1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumr_4a</modelName>
+          <modShopLabel>LOSTARRSPLIT1A</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumr_4b</modelName>
+          <modShopLabel>LOSTARRSPLIT1B</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumr_5</modelName>
+          <modShopLabel>LOSTARRSPLIT2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>mod_col_14</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumr_6</modelName>
+          <modShopLabel>LOSTARRSPLIT3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>mod_col_14</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumr_7</modelName>
+          <modShopLabel>LOSTARRSPLIT4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>mod_col_14</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumr_8</modelName>
+          <modShopLabel>LOSTARRSPLIT5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>mod_col_14</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumr_9</modelName>
+          <modShopLabel>LOSTARBUMR9</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_g</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>mod_col_14</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bumr_10</modelName>
+          <modShopLabel>LOSTARBUMR10</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_g</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>mod_col_14</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_mir1_l</modelName>
+          <modShopLabel>LOSTARMIR1</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_mir1_r</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_d</Item>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_mir2_l</modelName>
+          <modShopLabel>LOSTARMIR2</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_mir2_r</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_d</Item>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_mir3_l</modelName>
+          <modShopLabel>LOSTARMIR3</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_mir3_r</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_d</Item>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_mir4_l</modelName>
+          <modShopLabel>LOSTARMIR4</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_mir4_r</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_d</Item>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_mir5_l</modelName>
+          <modShopLabel>LOSTARMIR5</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_mir5_r</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_d</Item>
+			<Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_rlight_cover_1</modelName>
+          <modShopLabel>LOSTARRLIGHT1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_TRUNK</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_rlight_cover_2</modelName>
+          <modShopLabel>LOSTARRLIGHT2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_TRUNK</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_rlight_cover_3</modelName>
+          <modShopLabel>LOSTARRLIGHT3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_TRUNK</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_rlight_cover_4</modelName>
+          <modShopLabel>LOSTARRLIGHT4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_TRUNK</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_rlight_cover_5</modelName>
+          <modShopLabel>LOSTARRLIGHT5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_TRUNK</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_hlight_cover_1</modelName>
+          <modShopLabel>LOSTARHLIGHT1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_hlight_cover_2</modelName>
+          <modShopLabel>LOSTARHLIGHT2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_hlight_cover_3</modelName>
+          <modShopLabel>LOSTARHLIGHT3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_hlight_cover_4</modelName>
+          <modShopLabel>LOSTARHLIGHT4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_fascia_1</modelName>
+          <modShopLabel>LOSTARFASCIA1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_i</Item>
+		  	<Item>misc_m</Item>
+			<Item>misc_n</Item>
+			<Item>misc_o</Item>
+			<Item>misc_p</Item>
+		  </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_fascia_2</modelName>
+          <modShopLabel>LOSTARFASCIA2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_i</Item>
+		  	<Item>misc_m</Item>
+			<Item>misc_n</Item>
+			<Item>misc_o</Item>
+			<Item>misc_p</Item>
+		  </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_fascia_3</modelName>
+          <modShopLabel>LOSTARFASCIA3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_i</Item>
+		  	<Item>misc_m</Item>
+			<Item>misc_n</Item>
+			<Item>misc_o</Item>
+			<Item>misc_p</Item>
+		  </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_fascia_4</modelName>
+          <modShopLabel>LOSTARFASCIA4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_i</Item>
+		  	<Item>misc_m</Item>
+			<Item>misc_n</Item>
+			<Item>misc_o</Item>
+			<Item>misc_p</Item>
+			<Item>misc_j</Item>
+			<Item>misc_f</Item>
+			<Item>misc_q</Item>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_fascia_5</modelName>
+          <modShopLabel>LOSTARFASCIA5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_i</Item>
+		  	<Item>misc_m</Item>
+			<Item>misc_n</Item>
+			<Item>misc_o</Item>
+			<Item>misc_p</Item>
+			<Item>misc_j</Item>
+			<Item>misc_f</Item>
+			<Item>misc_q</Item>
+			<Item>extra_1</Item>
+		  </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_skirt_1</modelName>
+          <modShopLabel>LOSTARSKIRT1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_skirt_2</modelName>
+          <modShopLabel>LOSTARSKIRT2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_skirt_2a</modelName>
+          <modShopLabel>LOSTARSKIRT2A</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_skirt_2b</modelName>
+          <modShopLabel>LOSTARSKIRT2B</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_skirt_3</modelName>
+          <modShopLabel>LOSTARSKIRT3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_skirt_4</modelName>
+          <modShopLabel>LOSTARSKIRT4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_skirt_5</modelName>
+          <modShopLabel>LOSTARSKIRT5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_skirt_6</modelName>
+          <modShopLabel>LOSTARSKIRT6</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_skirt_7</modelName>
+          <modShopLabel>LOSTARSKIRT7</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_skirt_8</modelName>
+          <modShopLabel>LOSTARSKIRT8</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bonnet_1</modelName>
+          <modShopLabel>LOSTARBON1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bonnet_2</modelName>
+          <modShopLabel>LOSTARBON2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_h</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bonnet_3</modelName>
+          <modShopLabel>LOSTARBON3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_h</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bonnet_4</modelName>
+          <modShopLabel>LOSTARBON4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_h</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bonnet_5</modelName>
+          <modShopLabel>LOSTARBON5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_h</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bonnet_6</modelName>
+          <modShopLabel>LOSTARBON6</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_h</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bonnet_7</modelName>
+          <modShopLabel>LOSTARBON7</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_h</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bonnet_8</modelName>
+          <modShopLabel>LOSTARBON8</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_h</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bonnet_9</modelName>
+          <modShopLabel>LOSTARBON9</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_h</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bonnet_10</modelName>
+          <modShopLabel>LOSTARBON10</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_h</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_grill_1</modelName>
+          <modShopLabel>LOSTARGRILL1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_grill_2</modelName>
+          <modShopLabel>LOSTARGRILL2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_grill_3</modelName>
+          <modShopLabel>LOSTARGRILL3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_grill_3</modelName>
+          <modShopLabel>LOSTARGRILL3A</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_grill_acc_1</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_grill_3</modelName>
+          <modShopLabel>LOSTARGRILL3B</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_grill_acc_2</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_grill_3</modelName>
+          <modShopLabel>LOSTARGRILL3C</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_grill_acc_3</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_grill_3</modelName>
+          <modShopLabel>LOSTARGRILL3D</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_grill_acc_2</Item>
+		  	<Item>gstlostar1_grill_acc_3</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_grill_3</modelName>
+          <modShopLabel>LOSTARGRILL3E</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_grill_acc_4</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_j</Item>
+			<Item>extra_2</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_grill_3</modelName>
+          <modShopLabel>LOSTARGRILL3F</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_grill_acc_4</Item>
+		  	<Item>gstlostar1_grill_acc_2</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_j</Item>
+			<Item>extra_2</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_grill_4</modelName>
+          <modShopLabel>LOSTARGRILL4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_grill_4</modelName>
+          <modShopLabel>LOSTARGRILL4A</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_grill_acc_5</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_j</Item>
+			<Item>extra_2</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_grill_4</modelName>
+          <modShopLabel>LOSTARGRILL4B</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_grill_acc_6</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_j</Item>
+			<Item>extra_2</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_grill_5</modelName>
+          <modShopLabel>LOSTARGRILL5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_j</Item>
+			<Item>extra_2</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_grill_6</modelName>
+          <modShopLabel>LOSTARGRILL6</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_j</Item>
+			<Item>extra_2</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_grill_7</modelName>
+          <modShopLabel>LOSTARGRILL7</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  	<Item>misc_j</Item>
+			<Item>extra_2</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_trim_lf</modelName>
+          <modShopLabel>LOSTARTRIM</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_trim_rf</Item>
+			<Item>gstlostar1_trim_lr</Item>
+			<Item>gstlostar1_trim_rr</Item>
+			<Item>gstlostar1_trim_boot</Item>
+		  </linkedModels>
+          <turnOffBones/>
+          <type>VMT_DOOR_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_panel</modelName>
+          <modShopLabel>LOSTARPANEL</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_panel</modelName>
+          <modShopLabel>LOSTARPANELB</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_panel_l</Item>
+			<Item>gstlostar1_panel_r</Item>
+		  </linkedModels>
+          <turnOffBones/>
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_fenders_1</modelName>
+          <modShopLabel>LOSTARFEND1</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_fenders_1_l</Item>
+			<Item>gstlostar1_fenders_1_r</Item>
+		  </linkedModels>
+          <turnOffBones/>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_fenders_2</modelName>
+          <modShopLabel>LOSTARFEND2</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_fenders_2_l</Item>
+			<Item>gstlostar1_fenders_2_r</Item>
+		  </linkedModels>
+          <turnOffBones/>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_fenders_3</modelName>
+          <modShopLabel>LOSTARFEND3</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_fenders_3_l</Item>
+			<Item>gstlostar1_fenders_3_r</Item>
+		  </linkedModels>
+          <turnOffBones/>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_fenders_4</modelName>
+          <modShopLabel>LOSTARFEND4</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_fenders_4_l</Item>
+			<Item>gstlostar1_fenders_4_r</Item>
+		  </linkedModels>
+          <turnOffBones/>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_fenders_5</modelName>
+          <modShopLabel>LOSTARFEND5</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_fenders_5_l</Item>
+			<Item>gstlostar1_fenders_5_r</Item>
+		  </linkedModels>
+          <turnOffBones/>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_fenders_6</modelName>
+          <modShopLabel>LOSTARFEND6</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_fenders_6_l</Item>
+			<Item>gstlostar1_fenders_6_r</Item>
+		  </linkedModels>
+          <turnOffBones/>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_fenders_7</modelName>
+          <modShopLabel>LOSTARFEND7</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_fenders_7_l</Item>
+			<Item>gstlostar1_fenders_7_r</Item>
+		  </linkedModels>
+          <turnOffBones/>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_rack_1</modelName>
+          <modShopLabel>LOSTARRACK1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_rack_1</modelName>
+          <modShopLabel>LOSTARRACK1A</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_fogbar</Item>
+		  </linkedModels>
+          <turnOffBones/>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_rack_1</modelName>
+          <modShopLabel>LOSTARRACK1B</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_lightbar</Item>
+		  </linkedModels>
+          <turnOffBones/>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_rack_2</modelName>
+          <modShopLabel>LOSTARRACK2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_6</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_rack_2</modelName>
+          <modShopLabel>LOSTARRACK2A</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_rack_ex_1</Item>
+		  </linkedModels>
+          <turnOffBones/>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_6</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_rack_3</modelName>
+          <modShopLabel>LOSTARRACK3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_6</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_rack_3</modelName>
+          <modShopLabel>LOSTARRACK3A</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_fogbar</Item>
+		  </linkedModels>
+          <turnOffBones/>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_6</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_rack_3</modelName>
+          <modShopLabel>LOSTARRACK3B</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_lightbar</Item>
+		  </linkedModels>
+          <turnOffBones/>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_6</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_rack_3</modelName>
+          <modShopLabel>LOSTARRACK3C</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_lightbar</Item>
+		  	<Item>gstlostar1_rack_3_acc</Item>
+		  </linkedModels>
+          <turnOffBones/>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_9</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_wing_1</modelName>
+          <modShopLabel>LOSTARWING1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_wing_2</modelName>
+          <modShopLabel>LOSTARWING2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_wing_3</modelName>
+          <modShopLabel>LOSTARWING3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_wing_4</modelName>
+          <modShopLabel>LOSTARWING4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_wing_5</modelName>
+          <modShopLabel>LOSTARWING5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_wing_6</modelName>
+          <modShopLabel>LOSTARWING6</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_wing_7</modelName>
+          <modShopLabel>LOSTARWING7</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_wing_8</modelName>
+          <modShopLabel>LOSTARWING8</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_ladder_1</modelName>
+          <modShopLabel>LOSTARLAD1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_12</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_ladder_2</modelName>
+          <modShopLabel>LOSTARLAD2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_12</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_vis_1</modelName>
+          <modShopLabel>LOSTARVIS1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS5</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_8</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_vis_2</modelName>
+          <modShopLabel>LOSTARVIS2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS5</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_8</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_vis_3</modelName>
+          <modShopLabel>LOSTARVIS3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS5</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_8</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_roof</modelName>
+          <modShopLabel>LOSTARROOF</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_roof_boot</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  	<Item>misc_k</Item>
+			<Item>misc_l</Item>
+		  </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bullbar_1</modelName>
+          <modShopLabel>LOSTARBAR1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS2</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_10</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bullbar_2</modelName>
+          <modShopLabel>LOSTARBAR2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS2</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_10</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bullbar_3</modelName>
+          <modShopLabel>LOSTARBAR3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS2</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_11</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_bullbar_4</modelName>
+          <modShopLabel>LOSTARBAR4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS2</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_11</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_exh_nodes_1</modelName>
+          <modShopLabel>LOSTAR_EXH1</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_exh_1</Item>
+		  </linkedModels>
+		  <turnOffBones>
+            <Item>misc_e</Item>
+			<Item>exhaust</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_exh_nodes_1</modelName>
+          <modShopLabel>LOSTAR_EXH2</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_exh_2</Item>
+		  </linkedModels>
+		  <turnOffBones>
+            <Item>misc_e</Item>
+			<Item>exhaust</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_exh_nodes_1</modelName>
+          <modShopLabel>LOSTAR_EXH3</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_exh_3</Item>
+		  </linkedModels>
+		  <turnOffBones>
+            <Item>misc_e</Item>
+			<Item>exhaust</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_exh_nodes_2</modelName>
+          <modShopLabel>LOSTAR_EXH4</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_exh_4</Item>
+		  </linkedModels>
+		  <turnOffBones>
+            <Item>misc_e</Item>
+			<Item>exhaust</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_exh_nodes_2</modelName>
+          <modShopLabel>LOSTAR_EXH5</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_exh_5</Item>
+		  </linkedModels>
+		  <turnOffBones>
+            <Item>misc_e</Item>
+			<Item>exhaust</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_exh_nodes_2</modelName>
+          <modShopLabel>LOSTAR_EXH6</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_exh_6</Item>
+		  </linkedModels>
+		  <turnOffBones>
+            <Item>misc_e</Item>
+			<Item>exhaust</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_exh_nodes_3</modelName>
+          <modShopLabel>LOSTAR_EXH7</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_exh_7</Item>
+		  </linkedModels>
+		  <turnOffBones>
+            <Item>misc_e</Item>
+			<Item>exhaust</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_exh_nodes_3</modelName>
+          <modShopLabel>LOSTAR_EXH8</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_exh_8</Item>
+		  </linkedModels>
+		  <turnOffBones>
+            <Item>misc_e</Item>
+			<Item>exhaust</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+		<Item>
+          <modelName>gstlostar1_exh_nodes_1</modelName>
+          <modShopLabel>LOSTAR_EXH9</modShopLabel>
+          <linkedModels>
+		  	<Item>gstlostar1_exh_9</Item>
+		  </linkedModels>
+		  <turnOffBones>
+            <Item>misc_e</Item>
+			<Item>exhaust</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+	  </visibleMods>
+      <linkMods>
+	  	<item>
+			<modelName>gstlostar1_bumr_4</modelName>
+			<bone>bumper_r</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_bumr_4a</modelName>
+			<bone>bumper_r</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_bumr_4b</modelName>
+			<bone>bumper_r</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_bumr_5</modelName>
+			<bone>bumper_r</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_bumr_6</modelName>
+			<bone>bumper_r</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_bumr_7</modelName>
+			<bone>bumper_r</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_bumr_8</modelName>
+			<bone>bumper_r</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_bumr_acc_1</modelName>
+			<bone>bumper_r</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_bumr_acc_2</modelName>
+			<bone>bumper_r</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_bumf_6</modelName>
+			<bone>bumper_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_bumf_6a</modelName>
+			<bone>bumper_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_bumf_6b</modelName>
+			<bone>bumper_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_bumf_7</modelName>
+			<bone>bumper_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_bumf_8</modelName>
+			<bone>bumper_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_bumf_9</modelName>
+			<bone>bumper_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_bumf_10</modelName>
+			<bone>bumper_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_bumf_acc_1</modelName>
+			<bone>bumper_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_bumf_acc_2</modelName>
+			<bone>bumper_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_bumf_acc_3</modelName>
+			<bone>bumper_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_mir1_r</modelName>
+			<bone>door_pside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_mir2_r</modelName>
+			<bone>door_pside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_mir3_r</modelName>
+			<bone>door_pside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_mir4_r</modelName>
+			<bone>door_pside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_mir5_r</modelName>
+			<bone>door_pside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_grill_acc_1</modelName>
+			<bone>chassis</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_grill_acc_2</modelName>
+			<bone>chassis</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_grill_acc_3</modelName>
+			<bone>chassis</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_grill_acc_4</modelName>
+			<bone>chassis</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_grill_acc_5</modelName>
+			<bone>chassis</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_grill_acc_6</modelName>
+			<bone>chassis</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_panel_l</modelName>
+			<bone>door_dside_r</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_panel_r</modelName>
+			<bone>door_pside_r</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_fenders_1_l</modelName>
+			<bone>door_dside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_fenders_1_r</modelName>
+			<bone>door_pside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_fenders_2_l</modelName>
+			<bone>door_dside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_fenders_2_r</modelName>
+			<bone>door_pside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_fenders_3_l</modelName>
+			<bone>door_dside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_fenders_3_r</modelName>
+			<bone>door_pside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_fenders_4_l</modelName>
+			<bone>door_dside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_fenders_4_r</modelName>
+			<bone>door_pside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_fenders_5_l</modelName>
+			<bone>door_dside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_fenders_5_r</modelName>
+			<bone>door_pside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_fenders_6_l</modelName>
+			<bone>door_dside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_fenders_6_r</modelName>
+			<bone>door_pside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_fenders_7_l</modelName>
+			<bone>door_dside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_fenders_7_r</modelName>
+			<bone>door_pside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_rack_ex_1</modelName>
+			<bone>chassis</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_rack_3_acc</modelName>
+			<bone>chassis</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_fogbar</modelName>
+			<bone>chassis</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_lightbar</modelName>
+			<bone>chassis</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_trim_lr</modelName>
+			<bone>door_dside_r</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_trim_rf</modelName>
+			<bone>door_pside_f</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_trim_rr</modelName>
+			<bone>door_pside_r</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_trim_boot</modelName>
+			<bone>boot</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_roof_boot</modelName>
+			<bone>boot</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_exh_1</modelName>
+			<bone>chassis</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_exh_2</modelName>
+			<bone>chassis</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_exh_3</modelName>
+			<bone>chassis</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_exh_4</modelName>
+			<bone>chassis</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_exh_5</modelName>
+			<bone>chassis</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_exh_6</modelName>
+			<bone>chassis</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_exh_7</modelName>
+			<bone>chassis</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_exh_8</modelName>
+			<bone>chassis</bone>
+			<turnOffExtra value="false" />
+		</item>
+		<item>
+			<modelName>gstlostar1_exh_9</modelName>
+			<bone>chassis</bone>
+			<turnOffExtra value="false" />
+		</item>
+	  </linkMods>
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="75" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+         <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="75" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="300" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_01</identifier>
+          <modifier value="2916775806"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+          <modifier value="3714706952"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_02</identifier>
+          <modifier value="2611860261"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+          <modifier value="3206770359"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_1</identifier>
+          <modifier value="310529291"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+          <modifier value="2965568987"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_2</identifier>
+          <modifier value="55291550"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+          <modifier value="965054819"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_01</identifier>
+          <modifier value="55862314"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_01_PREVIEW</identifier>
+          <modifier value="2156743178"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_02</identifier>
+          <modifier value="400002352"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_02_PREVIEW</identifier>
+          <modifier value="897484282"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_03</identifier>
+          <modifier value="560832604"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_03_PREVIEW</identifier>
+          <modifier value="314232747"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_01</identifier>
+          <modifier value="3851180092"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_01_Preview</identifier>
+          <modifier value="246182814"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_02</identifier>
+          <modifier value="3412861948"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_02_Preview</identifier>
+          <modifier value="1804608241"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_03</identifier>
+          <modifier value="3374260066"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_03_Preview</identifier>
+          <modifier value="2798044638"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+      <slotNames>
+	  	<Item>
+          <slot>VMT_CHASSIS1</slot>
+          <name>LOST_HLITE</name>
+        </Item>
+	  	<Item>
+          <slot>VMT_CHASSIS2</slot>
+          <name>LOST_BBAR</name>
+        </Item>
+		<Item>
+          <slot>VMT_CHASSIS3</slot>
+          <name>LOST_RACK</name>
+        </Item>
+		<Item>
+          <slot>VMT_CHASSIS4</slot>
+          <name>LOST_PNL</name>
+        </Item>
+		<Item>
+          <slot>VMT_CHASSIS5</slot>
+          <name>LOST_VIS</name>
+        </Item>
+		<Item>
+          <slot>VMT_DOOR_L</slot>
+          <name>LOST_CHRTRIM</name>
+        </Item>
+		<Item>
+          <slot>VMT_WING_L</slot>
+          <name>LOST_MIR</name>
+        </Item>
+		<Item>
+          <slot>VMT_WING_R</slot>
+          <name>LOST_FEND</name>
+        </Item>
+		<Item>
+          <slot>VMT_TRUNK</slot>
+          <name>LOST_RLITE</name>
+        </Item>
+	  </slotNames>
+      <liveryNames />
+    </Item>    
+  </Kits>
+  <Lights>
+	
+  </Lights>
+</CVehicleModelInfoVarGlobal>

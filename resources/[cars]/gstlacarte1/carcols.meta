@@ -1,0 +1,4086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVarGlobal>
+  <Kits>
+	<Item>
+      <kitName>875_gstlacarte1_modkit</kitName>
+      <id value="875" />	 	  
+      <kitType>MKT_SPECIAL</kitType>
+      <visibleMods>
+								<Item>
+          <modelName>gstlacarte1_hoodbra</modelName>
+          <modShopLabel>LACRTE_HUDBRA</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_1</modelName>
+          <modShopLabel>LACRTE_HUD1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_2</modelName>
+          <modShopLabel>LACRTE_HUD2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_3</modelName>
+          <modShopLabel>LACRTE_HUD3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_4</modelName>
+          <modShopLabel>LACRTE_HUD4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_5</modelName>
+          <modShopLabel>LACRTE_HUD5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_6</modelName>
+          <modShopLabel>LACRTE_HUD6</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_7</modelName>
+          <modShopLabel>LACRTE_HUD7</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_8</modelName>
+          <modShopLabel>LACRTE_HUD8</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_9</modelName>
+          <modShopLabel>LACRTE_HUD9</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_10</modelName>
+          <modShopLabel>LACRTE_HUD10</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_11</modelName>
+          <modShopLabel>LACRTE_HUD11</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_12</modelName>
+          <modShopLabel>LACRTE_HUD12</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_13</modelName>
+          <modShopLabel>LACRTE_HUD13</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_14</modelName>
+          <modShopLabel>LACRTE_HUD14</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_15</modelName>
+          <modShopLabel>LACRTE_HUD15</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_16</modelName>
+          <modShopLabel>LACRTE_HUD16</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_17</modelName>
+          <modShopLabel>LACRTE_HUD17</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_18</modelName>
+          <modShopLabel>LACRTE_HUD18</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_19</modelName>
+          <modShopLabel>LACRTE_HUD19</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hood_20</modelName>
+          <modShopLabel>LACRTE_HUD20</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_h</Item>
+		  						</turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_bumf_1</modelName>
+          <modShopLabel>LACARTE_BUMF_1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_g</Item>
+		  						</turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_bumf_2</modelName>
+          <modShopLabel>LACARTE_BUMF_2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_bumf_3</modelName>
+          <modShopLabel>LACARTE_BUMF_3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_bumf_1</modelName>
+          <modShopLabel>LACARTE_BUMF_1A</modShopLabel>
+          <linkedModels>
+											<Item>gstlacarte1_bumf_2</Item>
+										</linkedModels>
+          <turnOffBones>
+											<Item>misc_g</Item>
+										</turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_bumf_1</modelName>
+          <modShopLabel>LACARTE_BUMF_1B</modShopLabel>
+          <linkedModels>
+											<Item>gstlacarte1_bumf_3</Item>
+										</linkedModels>
+          <turnOffBones>
+											<Item>misc_g</Item>
+										</turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_bumf_4</modelName>
+          <modShopLabel>LACARTE_BUMF_4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_g</Item>
+												<Item>extra_2</Item>
+		  						</turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_bumf_5</modelName>
+          <modShopLabel>LACARTE_BUMF_5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_g</Item>
+												<Item>extra_2</Item>
+		  						</turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_bumf_6</modelName>
+          <modShopLabel>LACARTE_BUMF_6</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_g</Item>
+												<Item>extra_2</Item>
+		  						</turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_bumf_7</modelName>
+          <modShopLabel>LACARTE_BUMF_7</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_g</Item>
+												<Item>extra_2</Item>
+		  						</turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_bumf_8</modelName>
+          <modShopLabel>LACARTE_BUMF_8</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_g</Item>
+												<Item>extra_2</Item>
+												<Item>extra_3</Item>
+		  						</turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_bumf_9</modelName>
+          <modShopLabel>LACARTE_BUMF_9</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_g</Item>
+												<Item>extra_2</Item>
+		  						</turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_bumf_10</modelName>
+          <modShopLabel>LACARTE_BUMF_10</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+		  								<Item>misc_g</Item>
+												<Item>extra_2</Item>
+		  						</turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_bumr_1</modelName>
+          <modShopLabel>LACARTE_BUMR_1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_bumr_2</modelName>
+          <modShopLabel>LACARTE_BUMR_2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_i</Item>
+										</turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_bumr_3</modelName>
+          <modShopLabel>LACARTE_BUMR_3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_i</Item>
+										</turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_bumr_4</modelName>
+          <modShopLabel>LACARTE_BUMR_4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_bumr_5</modelName>
+          <modShopLabel>LACARTE_BUMR_5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_i</Item>
+										</turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_bumr_6</modelName>
+          <modShopLabel>LACARTE_BUMR_6</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_i</Item>
+										</turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_bumr_7</modelName>
+          <modShopLabel>LACARTE_BUMR_7</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_i</Item>
+										</turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_skirt_1</modelName>
+          <modShopLabel>LACARTE_SKRRRRT_1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_skirt_2</modelName>
+          <modShopLabel>LACARTE_SKRRRRT_2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_skirt_3</modelName>
+          <modShopLabel>LACARTE_SKRRRRT_3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_skirt_4</modelName>
+          <modShopLabel>LACARTE_SKRRRRT_4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_skirt_5</modelName>
+          <modShopLabel>LACARTE_SKRRRRT_5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_skirt_6</modelName>
+          <modShopLabel>LACARTE_SKRRRRT_6</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_skirt_7</modelName>
+          <modShopLabel>LACARTE_SKRRRRT_7</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_1</modelName>
+          <modShopLabel>KNJOSJ_SPOL_7</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_2</modelName>
+          <modShopLabel>KNJOSJ_SPOL_9</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_3</modelName>
+          <modShopLabel>KNJOSJ_SPOL_10</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_4</modelName>
+          <modShopLabel>KNJOSJ_SPOL_12</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_5</modelName>
+          <modShopLabel>KNJOSJ_SPOL_13</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_6</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_6</modelName>
+          <modShopLabel>KNJOSJ_SPOL_15</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_6</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_7</modelName>
+          <modShopLabel>SULTAN_WING2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_7</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_8</modelName>
+          <modShopLabel>PEN2_WING19</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_9</modelName>
+          <modShopLabel>PEN2_WING20</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_10</modelName>
+          <modShopLabel>CALICO_WING_8</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_8</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_11</modelName>
+          <modShopLabel>CALICO_WING_10</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_8</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_12</modelName>
+          <modShopLabel>CALICO_WING_11</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_9</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_13</modelName>
+          <modShopLabel>CALICO_WING_13</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_9</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_14</modelName>
+          <modShopLabel>KNJOSJ_SPOL_17</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_10</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_15</modelName>
+          <modShopLabel>CALICO_WING_14</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_11</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_16</modelName>
+          <modShopLabel>CALICO_WING_16</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_11</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_17</modelName>
+          <modShopLabel>CALICO_WING_19</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_10</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_18</modelName>
+          <modShopLabel>CALICO_WING_20</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_12</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_19</modelName>
+          <modShopLabel>CALICO_WING_22</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_12</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_20</modelName>
+          <modShopLabel>PEN2_WING1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_13</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_wing_21</modelName>
+          <modShopLabel>PEN2_WING2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_13</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_exh_1</modelName>
+          <modShopLabel>KNJOSJ_EX_1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_l</Item>
+											<Item>exhaust</Item>
+										</turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_exh_2</modelName>
+          <modShopLabel>KNJOSJ_EX_2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_l</Item>
+											<Item>exhaust</Item>
+										</turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_exh_3</modelName>
+          <modShopLabel>KNJOSJ_EX_3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_l</Item>
+											<Item>exhaust</Item>
+										</turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_exh_4</modelName>
+          <modShopLabel>KNJOSJ_EX_4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_l</Item>
+											<Item>exhaust</Item>
+										</turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_exh_5</modelName>
+          <modShopLabel>KNJOSJ_EX_5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_l</Item>
+											<Item>exhaust</Item>
+										</turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_exh_6</modelName>
+          <modShopLabel>KNJOSJ_EX_6</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_l</Item>
+											<Item>exhaust</Item>
+										</turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_exh_7</modelName>
+          <modShopLabel>KNJOSJ_EX_7</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_l</Item>
+											<Item>exhaust</Item>
+										</turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_exh_8</modelName>
+          <modShopLabel>LACARTE_EXH8</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_l</Item>
+											<Item>exhaust</Item>
+										</turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_exh_9</modelName>
+          <modShopLabel>LACARTE_EXH9</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_l</Item>
+											<Item>exhaust</Item>
+										</turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_exh_10</modelName>
+          <modShopLabel>LACARTE_EXH10</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_l</Item>
+											<Item>exhaust</Item>
+										</turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_exh_11</modelName>
+          <modShopLabel>LACARTE_EXH11</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_l</Item>
+											<Item>exhaust</Item>
+										</turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>mod_col_14</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_nomod</modelName>
+          <modShopLabel>LACARTE_NOROOF</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_j</Item>
+										</turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_roof_1</modelName>
+          <modShopLabel>LACARTE_ROOF_1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_j</Item>
+										</turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_roof_2</modelName>
+          <modShopLabel>LACARTE_ROOF_2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_j</Item>
+										</turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_roof_3</modelName>
+          <modShopLabel>LACARTE_ROOF_3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_15</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_roof_4</modelName>
+          <modShopLabel>LACARTE_ROOF_4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_16</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_roof_5</modelName>
+          <modShopLabel>LACARTE_ROOF_5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_17</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_roof_6</modelName>
+          <modShopLabel>LACARTE_ROOF_6</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_17</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_roof_7</modelName>
+          <modShopLabel>LACARTE_ROOF_7</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_18</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hudpin_1</modelName>
+          <modShopLabel>VTC_HACC_1</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_CHASSIS3</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>gstlacarte1_hudpin_2</modelName>
+          <modShopLabel>VTC_HACC_2</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_CHASSIS3</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>gstlacarte1_hudpin_3</modelName>
+          <modShopLabel>VTC_HACC_3</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_CHASSIS3</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>gstlacarte1_hudpin_3a</modelName>
+          <modShopLabel>VTC_HACC_4</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_CHASSIS3</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>gstlacarte1_hudpin_3b</modelName>
+          <modShopLabel>VTC_HACC_5</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_CHASSIS3</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_hudpin_3c</modelName>
+          <modShopLabel>VTC_HACC_6</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_CHASSIS3</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+									<Item>
+          <modelName>gstlacarte1_hlightcov_1</modelName>
+          <modShopLabel>LACARTE_HLCV_1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone/>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_hlightcov_2</modelName>
+          <modShopLabel>LACARTE_HLCV_2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone/>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_xlightcov_1</modelName>
+          <modShopLabel>LACARTE_XLCV_1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone/>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_xlightcov_2</modelName>
+          <modShopLabel>LACARTE_XLCV_2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone/>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_xlightcov_3</modelName>
+          <modShopLabel>LACARTE_XLCV_3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone/>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_housing_1</modelName>
+          <modShopLabel>LACARTE_HOUSE_B</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_m</Item>
+										</turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone/>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_housing_2</modelName>
+          <modShopLabel>LACARTE_HOUSE_P</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_m</Item>
+										</turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone/>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_housing_3</modelName>
+          <modShopLabel>LACARTE_HOUSE_S</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_m</Item>
+										</turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone/>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_mirr1a</modelName>
+          <modShopLabel>LACARTE_MIR</modShopLabel>
+          <linkedModels>
+											<Item>gstlacarte1_mirr1b</Item>
+										</linkedModels>
+          <turnOffBones>
+											<Item>misc_e</Item>
+											<Item>misc_f</Item>
+										</turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone/>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_mirr2a</modelName>
+          <modShopLabel>HARD_MIRR4</modShopLabel>
+          <linkedModels>
+											<Item>gstlacarte1_mirr2b</Item>
+										</linkedModels>
+          <turnOffBones>
+											<Item>misc_e</Item>
+											<Item>misc_f</Item>
+										</turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone/>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_mirr3a</modelName>
+          <modShopLabel>HARD_MIRR5</modShopLabel>
+          <linkedModels>
+											<Item>gstlacarte1_mirr3b</Item>
+										</linkedModels>
+          <turnOffBones>
+											<Item>misc_e</Item>
+											<Item>misc_f</Item>
+										</turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone/>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_mirr4a</modelName>
+          <modShopLabel>HARD_MIRR6</modShopLabel>
+          <linkedModels>
+											<Item>gstlacarte1_mirr4b</Item>
+										</linkedModels>
+          <turnOffBones>
+											<Item>misc_e</Item>
+											<Item>misc_f</Item>
+										</turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone/>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_mir_1l</modelName>
+          <modShopLabel>WARR2_MIRR1</modShopLabel>
+          <linkedModels>
+											<Item>gstlacarte1_mir_1r</Item>
+										</linkedModels>
+          <turnOffBones>
+											<Item>misc_e</Item>
+											<Item>misc_f</Item>
+										</turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone/>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_mir_2l</modelName>
+          <modShopLabel>WARR2_MIRR4</modShopLabel>
+          <linkedModels>
+											<Item>gstlacarte1_mir_2r</Item>
+										</linkedModels>
+          <turnOffBones>
+											<Item>misc_e</Item>
+											<Item>misc_f</Item>
+										</turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone/>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_mir_3l</modelName>
+          <modShopLabel>WARR2_MIRR5</modShopLabel>
+          <linkedModels>
+											<Item>gstlacarte1_mir_3r</Item>
+										</linkedModels>
+          <turnOffBones>
+											<Item>misc_e</Item>
+											<Item>misc_f</Item>
+										</turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone/>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_mir_4l</modelName>
+          <modShopLabel>PLUDE_MIRRC</modShopLabel>
+          <linkedModels>
+											<Item>gstlacarte1_mir_4r</Item>
+										</linkedModels>
+          <turnOffBones>
+											<Item>misc_e</Item>
+											<Item>misc_f</Item>
+										</turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone/>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_mir_5l</modelName>
+          <modShopLabel>PLUDE_MIRRD</modShopLabel>
+          <linkedModels>
+											<Item>gstlacarte1_mir_5r</Item>
+										</linkedModels>
+          <turnOffBones>
+											<Item>misc_e</Item>
+											<Item>misc_f</Item>
+										</turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone/>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_mir_6</modelName>
+          <modShopLabel>ZR350_MIRR2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_e</Item>
+											<Item>misc_f</Item>
+										</turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone/>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_mir_7</modelName>
+          <modShopLabel>ZR350_MIRR3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+											<Item>misc_e</Item>
+											<Item>misc_f</Item>
+										</turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone/>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="0"/>
+          <weaponSlotSecondary value="0"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="0"/>
+          <disableDrivebySeatSecondary value="0"/>
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_eng_a</modelName>
+          <modShopLabel>KNJOSJ_EC_1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY1</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>gstlacarte1_eng_b</modelName>
+          <modShopLabel>KNJOSJ_EC_2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY1</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>gstlacarte1_eng_c</modelName>
+          <modShopLabel>KNJOSJ_EC_3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY1</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>gstlacarte1_eng_d</modelName>
+          <modShopLabel>KNJOSJ_EC_4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY1</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>gstlacarte1_eng_e</modelName>
+          <modShopLabel>KNJOSJ_EC_5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY1</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>gstlacarte1_eng_f</modelName>
+          <modShopLabel>KNJOSJ_EC_6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY1</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+						<Item>
+          <modelName>gstlacarte1_filt_a</modelName>
+          <modShopLabel>KNJOSJ_FLT_1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_t</Item>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY2</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>gstlacarte1_filt_b</modelName>
+          <modShopLabel>KNJOSJ_FLT_2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_t</Item>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY2</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>gstlacarte1_filt_c</modelName>
+          <modShopLabel>KNJOSJ_FLT_3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_t</Item>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY2</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+	  <Item>
+          <modelName>gstlacarte1_filt_d</modelName>
+          <modShopLabel>KNJOSJ_FLT_4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_t</Item>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY2</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+      </Item>
+						<Item>
+          <modelName>gstlacarte1_bucketa1_smod</modelName>
+          <modShopLabel>SMOD_BSEAT2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_x</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_bucketa2_smod</modelName>
+          <modShopLabel>SMOD_BSEAT3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_x</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_bucketa3_smod</modelName>
+          <modShopLabel>SMOD_BSEAT4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_x</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_bucketb1_smod</modelName>
+          <modShopLabel>SMOD_BSEAT5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_x</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_bucketb2_smod</modelName>
+          <modShopLabel>SMOD_BSEAT6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_x</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_bucketb3_smod</modelName>
+          <modShopLabel>SMOD_BSEAT7</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_x</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_bucketc1_smod</modelName>
+          <modShopLabel>SMOD_BSEAT8</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_x</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_bucketc2_smod</modelName>
+          <modShopLabel>SMOD_BSEAT9</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_x</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_bucketc3_smod</modelName>
+          <modShopLabel>SMOD_BSEAT10</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_x</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_bucketd1_smod</modelName>
+          <modShopLabel>SMOD_BSEAT11</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_x</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_bucketd2_smod</modelName>
+          <modShopLabel>SMOD_BSEAT12</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_x</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_bucketd3_smod</modelName>
+          <modShopLabel>SMOD_BSEAT13</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_x</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_buckete1_smod</modelName>
+          <modShopLabel>SMOD_BSEAT15</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_x</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gstlacarte1_seats_3</modelName>
+          <modShopLabel>VTC_ST_5</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_x</Item>
+		  </turnOffBones> 
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gstlacarte1_seats_3a</modelName>
+          <modShopLabel>VTC_ST_6</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+         	<Item>misc_x</Item>
+		  </turnOffBones> 
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_brc_1</modelName>
+          <modShopLabel>CALICO_SBRACE1</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_brc_2</modelName>
+          <modShopLabel>CALICO_SBRACE2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_brc_3</modelName>
+          <modShopLabel>CALICO_SBRACE3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_brc_4</modelName>
+          <modShopLabel>VTC_BR_1</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_brc_4a</modelName>
+          <modShopLabel>VTC_BR_2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_brc_4b</modelName>
+          <modShopLabel>VTC_BR_3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_brc_4c</modelName>
+          <modShopLabel>VTC_BR_4</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_brc_5</modelName>
+          <modShopLabel>VTC_BR_5</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_brc_5a</modelName>
+          <modShopLabel>VTC_BR_6</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_brc_6</modelName>
+          <modShopLabel>VTC_BR_7</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_brc_6a</modelName>
+          <modShopLabel>VTC_BR_8</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_brc_7</modelName>
+          <modShopLabel>VTC_BR_9</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_brc_7a</modelName>
+          <modShopLabel>VTC_BR_10</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_brc_8</modelName>
+          <modShopLabel>CALICO_SBRACE5</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_brc_9</modelName>
+          <modShopLabel>CALICO_SBRACE10</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_brc_10</modelName>
+          <modShopLabel>CALICO_SBRACE11</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_brc_11</modelName>
+          <modShopLabel>VTC_BR_11</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_brc_11a</modelName>
+          <modShopLabel>VTC_BR_12</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_brc_11b</modelName>
+          <modShopLabel>VTC_BR_13</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>gstlacarte1_brc_11c</modelName>
+          <modShopLabel>VTC_BR_14</modShopLabel>
+          <linkedModels />
+		  <turnOffBones />
+          <type>VMT_ENGINEBAY3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_stwheel1</modelName>
+          <modShopLabel>SMOD2_STEER1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_stwheel2</modelName>
+          <modShopLabel>SMOD2_STEER2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_stwheel3</modelName>
+          <modShopLabel>SMOD2_STEER3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_stwheel4</modelName>
+          <modShopLabel>SMOD2_STEER4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_stwheel5</modelName>
+          <modShopLabel>SMOD2_STEER5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_stwheel6</modelName>
+          <modShopLabel>SMOD2_STEER6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_stwheel7</modelName>
+          <modShopLabel>SMOD2_STEER7</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_stwheel8</modelName>
+          <modShopLabel>SMOD2_STEER8</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_stwheel9</modelName>
+          <modShopLabel>SMOD2_STEER9</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_stwheel10</modelName>
+          <modShopLabel>SMOD2_STEER10</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_stwheel11</modelName>
+          <modShopLabel>SMOD2_STEER11</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_stwheel12</modelName>
+          <modShopLabel>SMOD2_STEER12</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_stwheel13</modelName>
+          <modShopLabel>SMOD2_STEER13</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_stwheel14</modelName>
+          <modShopLabel>SMOD2_STEER14</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_stwheel15</modelName>
+          <modShopLabel>SMOD2_STEER15</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>gstlacarte1_stwheel16</modelName>
+          <modShopLabel>SMOD2_STEER16</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>gstlacarte1_stwheel17</modelName>
+          <modShopLabel>LACARTE_CHAIN</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+					 </visibleMods>
+      <linkMods>
+								<item>
+								<modelName>gstlacarte1_mir_1r</modelName>
+								<bone>door_pside_f</bone>
+								<turnOffExtra value="false" />
+								</item>
+								<item>
+								<modelName>gstlacarte1_mir_2r</modelName>
+								<bone>door_pside_f</bone>
+								<turnOffExtra value="false" />
+								</item>
+								<item>
+								<modelName>gstlacarte1_mir_3r</modelName>
+								<bone>door_pside_f</bone>
+								<turnOffExtra value="false" />
+								</item>
+								<item>
+								<modelName>gstlacarte1_mir_4r</modelName>
+								<bone>door_pside_f</bone>
+								<turnOffExtra value="false" />
+								</item>
+								<item>
+								<modelName>gstlacarte1_mir_5r</modelName>
+								<bone>door_pside_f</bone>
+								<turnOffExtra value="false" />
+								</item>
+								<item>
+								<modelName>gstlacarte1_mirr1b</modelName>
+								<bone>door_pside_f</bone>
+								<turnOffExtra value="false" />
+								</item>
+								<item>
+								<modelName>gstlacarte1_mirr2b</modelName>
+								<bone>door_pside_f</bone>
+								<turnOffExtra value="false" />
+								</item>
+								<item>
+								<modelName>gstlacarte1_mirr3b</modelName>
+								<bone>door_pside_f</bone>
+								<turnOffExtra value="false" />
+								</item>
+								<item>
+								<modelName>gstlacarte1_mirr4b</modelName>
+								<bone>door_pside_f</bone>
+								<turnOffExtra value="false" />
+								</item>
+								<item>
+								<modelName>gstlacarte1_bumf_2</modelName>
+								<bone>bumper_f</bone>
+								<turnOffExtra value="false" />
+								</item>
+								<item>
+								<modelName>gstlacarte1_bumf_3</modelName>
+								<bone>bumper_f</bone>
+								<turnOffExtra value="false" />
+								</item>
+      </linkMods>
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="75" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+		 <Item>
+          <identifier />
+          <modifier value="130" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+								<Item>
+          <identifier />
+          <modifier value="10" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+							<Item>
+          <identifier />
+          <modifier value="30" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="250" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>      
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01</identifier>
+          <modifier value="2916775806" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+          <modifier value="3714706952" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02</identifier>
+          <modifier value="2611860261" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+          <modifier value="3206770359" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_1</identifier>
+          <modifier value="310529291" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+          <modifier value="2965568987" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_2</identifier>
+          <modifier value="55291550" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+          <modifier value="965054819" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+      <slotNames>
+							<Item>
+          <slot>VMT_CHASSIS</slot>
+          <name>TOP_HL_CV</name>
+        </Item>
+								<Item>
+          <slot>VMT_CHASSIS2</slot>
+          <name>XLITE_CV</name>
+        </Item>
+								<Item>
+          <slot>VMT_CHASSIS3</slot>
+          <name>TOP_CATCH</name>
+        </Item>
+								<Item>
+          <slot>VMT_WING_R</slot>
+          <name>HL_HOUSE</name>
+        </Item>
+								<Item>
+          <slot>VMT_WING_L</slot>
+          <name>TOP_MIR</name>
+        </Item>
+								<Item>
+          <slot>VMT_ENGINEBAY1</slot>
+          <name>TOP_BOOT</name>
+        </Item>
+								<Item>
+          <slot>VMT_ENGINEBAY2</slot>
+          <name>TOP_AIR</name>
+        </Item>
+								<Item>
+          <slot>VMT_ENGINEBAY2</slot>
+          <name>TOP_BRACE</name>
+        </Item>
+      </slotNames>
+      <liveryNames />
+    </Item>
+
+  </Kits>	
+</CVehicleModelInfoVarGlobal>

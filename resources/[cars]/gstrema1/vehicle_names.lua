@@ -1,0 +1,43 @@
+Citizen.CreateThread(function()
+AddTextEntry("gstrema1", "Rema R")
+AddTextEntry("gstrema1b", "Rema R Rabbit Missile")
+AddTextEntry("gstrema1c", "Rema R Polygon Face")
+AddTextEntry("gstrema1d", "Rema R X-Flow")
+AddTextEntry("gstrema1e", "Rema R GarageSlack")
+AddTextEntry("gstrema1f", "Rema R CTX Shadow")
+
+AddTextEntry("gstrema1_exh1", "Left Exit Single Tip Titanium Exhaust")
+AddTextEntry("gstrema1_exh2", "Left Exit Dual Tip Titanium Exhaust")
+AddTextEntry("gstrema1_exh3", "Left Exit Dual Tip Shotgun Titanium Exhaust")
+AddTextEntry("gstrema1_exh4", "Dual Exit Single Tip Titanium Exhaust")
+AddTextEntry("gstrema1_exh5", "Dual Exit Dual Tip Titanium Exhaust")
+AddTextEntry("gstrema1_exh6", "Dual Exit Dual Tip Shotgun Titanium Exhaust")
+
+AddTextEntry("gstrema1_eyes1", "Eyelids")
+AddTextEntry("gstrema1_eyes2", "Black Eyelids")
+
+AddTextEntry("gstrema1_bumf1", "X-Flow Front Bumper")
+AddTextEntry("gstrema1_bumf2", "Rabbit Missile Front Bumper")
+AddTextEntry("gstrema1_bumf3", "GarageSlack Front Bumper")
+
+AddTextEntry("gstrema1_bon1", "X-Flow Hood")
+AddTextEntry("gstrema1_bon2", "GarageSlack Hood")
+AddTextEntry("gstrema1_bon3", "CTX Silhouette Hood")
+
+AddTextEntry("gstrema1_mirr1", "Race Mirrors")
+AddTextEntry("gstrema1_mirr2", "JDM Mirrors")
+
+AddTextEntry("gstrema1_bumr1", "X-Flow Rear Bumper")
+AddTextEntry("gstrema1_bumr2", "X-Flow Rear Bumper w/ Diffuser")
+AddTextEntry("gstrema1_bumr3", "Rabbit Missile Rear Diffuser w/ No Bumper")
+AddTextEntry("gstrema1_bumr4", "Rabbit Missile Rear Diffuser")
+
+AddTextEntry("gstrema1_wing1", "X-Flow Spoiler")
+AddTextEntry("gstrema1_wing2", "X-Flow Ducktail")
+AddTextEntry("gstrema1_wing3", "X-Flow Ducktail w/ Spoiler")
+AddTextEntry("gstrema1_wing4", "Rabbit Missile Spoiler")
+AddTextEntry("gstrema1_wing5", "Rabbit Missile Ducktail")
+AddTextEntry("gstrema1_wing6", "Rabbit Missile Ducktail w/Spoiler")
+AddTextEntry("gstrema1_wing7", "Polygon Face Spoiler")
+AddTextEntry("gstrema1_wing8", "GarageSlack Spoiler")
+end)
