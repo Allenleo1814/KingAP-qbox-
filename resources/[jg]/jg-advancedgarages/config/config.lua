@@ -92,6 +92,20 @@ Config.GarageLocations = { -- IMPORTANT - Every garage name must be unique
     hideMarkers = true,
     markers = { id = 21, size = { x = 0.3, y = 0.3, z = 0.3 }, color = { r = 255, g = 255, b = 255, a = 120 }, bobUpAndDown = 0, faceCamera = 0, rotate = 1, drawOnEnts = 0 },
   },
+  ["Auto Exotic"] = {
+    coords = vector3(543.100037, -207.285339, 53.975079),
+    spawn = vector4(543.100037, -207.285339, 53.975079, 170.877533),
+    distance = 15,
+    type = "car",
+    hideBlip = false,
+    blip = {
+      id = 357,
+      color = 0,
+      scale = 0.7
+    },
+    hideMarkers = true,
+    markers = { id = 21, size = { x = 0.3, y = 0.3, z = 0.3 }, color = { r = 255, g = 255, b = 255, a = 120 }, bobUpAndDown = 0, faceCamera = 0, rotate = 1, drawOnEnts = 0 },
+  },
   ["Islington South"] = {
     coords = vector3(273.0, -343.85, 44.91),
     spawn = vector4(270.75, -340.51, 44.92, 342.03),
