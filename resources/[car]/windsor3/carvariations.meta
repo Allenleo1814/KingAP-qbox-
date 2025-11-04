@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>windsor3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0 <!--Primary Color -->
+            111 <!--Secondary Color -->
+            111 <!--Rim Color -->
+            111 <!--Not Sure yet -->
+            111 <!--Not Sure yet -->
+            111 <!--156 is Default Color Code (Grey) -->
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>16745_windsor3_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="20" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

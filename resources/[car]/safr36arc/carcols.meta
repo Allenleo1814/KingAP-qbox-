@@ -1,0 +1,2376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVarGlobal>
+  <Kits>
+    <Item>
+      <kitName>12065_safr36arc_modkit</kitName>
+      <id value="12065" />
+      <kitType>MKT_SPECIAL</kitType>
+      <visibleMods>
+         <Item>
+          <modelName>safr36arc_livery1</modelName>
+          <modShopLabel>safr36arc_livery1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>safr36arc_livery2</modelName>
+          <modShopLabel>safr36arc_livery2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>safr36arc_livery3</modelName>
+          <modShopLabel>safr36arc_livery3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>safr36arc_livery4</modelName>
+          <modShopLabel>safr36arc_livery4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>safr36arc_livery5</modelName>
+          <modShopLabel>safr36arc_livery5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>safr36arc_livery6</modelName>
+          <modShopLabel>safr36arc_livery6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>safr36arc_livery7</modelName>
+          <modShopLabel>safr36arc_livery7</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_sust_0</modelName>
+          <modShopLabel>ASTR_SUST3</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_sust_1</modelName>
+          <modShopLabel>ZR350_SUST1</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_sust_2</modelName>
+          <modShopLabel>ZR350_SUST2</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_sust_3</modelName>
+          <modShopLabel>ZR350_SUST3</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_sust_4</modelName>
+          <modShopLabel>ZR350_SUST4</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_sust_5</modelName>
+          <modShopLabel>ZR350_SUST5</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_sust_6</modelName>
+          <modShopLabel>ZR350_SUST6</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_sust_7</modelName>
+          <modShopLabel>ZR350_SUST7</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_sust_8</modelName>
+          <modShopLabel>ZR350_SUST8</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_grll_0</modelName>
+          <modShopLabel>FR36_GRLL1</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_g</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_grll_1</modelName>
+          <modShopLabel>FR36_GRLL2</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_g</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_grll_2</modelName>
+          <modShopLabel>FR36_GRLL3</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_g</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_grll_3</modelName>
+          <modShopLabel>FR36_GRLL4</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_g</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_grll_4</modelName>
+          <modShopLabel>FR36_GRLL5</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_g</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_grll_5</modelName>
+          <modShopLabel>FR36_GRLL6</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_g</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_grll_52</modelName>
+          <modShopLabel>FR36_GRLL7</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_g</Item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_cage_1</modelName>
+          <modShopLabel>BUFF5_CAGE1</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_INTERIOR2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_cage_2</modelName>
+          <modShopLabel>BUFF5_CAGE2</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_f</Item>
+		  </turnOffBones>
+          <type>VMT_INTERIOR2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_cage_3</modelName>
+          <modShopLabel>BUFF5_CAGE3</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_f</Item>
+		  </turnOffBones>
+          <type>VMT_INTERIOR2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_cage_4</modelName>
+          <modShopLabel>BUFF5_CAGE4</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_f</Item>
+		  </turnOffBones>
+          <type>VMT_INTERIOR2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_cage_5</modelName>
+          <modShopLabel>BUFF5_CAGE5</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_f</Item>
+		  </turnOffBones>
+          <type>VMT_INTERIOR2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_cage_6</modelName>
+          <modShopLabel>BUFF5_CAGE6</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_f</Item>
+		  </turnOffBones>
+          <type>VMT_INTERIOR2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_exh_1</modelName>
+          <modShopLabel>FR36_EXIT1</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_d</Item>
+		  </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_exh_2</modelName>
+          <modShopLabel>FR36_EXIT2</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_d</Item>
+		  </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_exh_3</modelName>
+          <modShopLabel>FR36_EXIT3</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_d</Item>
+		  </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_exh_4</modelName>
+          <modShopLabel>FR36_EXIT4</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_d</Item>
+		  </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_exh_5</modelName>
+          <modShopLabel>FR36_EXIT5</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_d</Item>
+		  </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_exh_6</modelName>
+          <modShopLabel>FR36_EXIT6</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_d</Item>
+		  </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_exh_7</modelName>
+          <modShopLabel>FR36_EXIT7</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_d</Item>
+		  <Item>exhaust</Item>
+		  <Item>exhaust_2</Item>
+		  </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_6</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>fr36_exh_8</modelName>
+          <modShopLabel>FR36_EXIT8</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_d</Item>
+		  <Item>exhaust</Item>
+		  <Item>exhaust_2</Item>
+		  </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_6</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_skirt1b</modelName>
+          <modShopLabel>safr36arc_skirt1b</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_skirt1c</modelName>
+          <modShopLabel>safr36arc_skirt1c</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_c</Item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_intercooler1</modelName>
+          <modShopLabel>safr36arc_intercooler1</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_ENGINEBAY2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>safr36arc_wing1a</modelName>
+          <modShopLabel>safr36arc_wing1a</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing1b</modelName>
+          <modShopLabel>safr36arc_wing1b</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing1c</modelName>
+          <modShopLabel>safr36arc_wing1c</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing2a</modelName>
+          <modShopLabel>safr36arc_wing2a</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing2b</modelName>
+          <modShopLabel>safr36arc_wing2b</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing2c</modelName>
+          <modShopLabel>safr36arc_wing2c</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing3a</modelName>
+          <modShopLabel>safr36arc_wing3a</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing3b</modelName>
+          <modShopLabel>safr36arc_wing3b</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing3c</modelName>
+          <modShopLabel>safr36arc_wing3c</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing4a</modelName>
+          <modShopLabel>safr36arc_wing4a</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing4b</modelName>
+          <modShopLabel>safr36arc_wing4b</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing4c</modelName>
+          <modShopLabel>safr36arc_wing4c</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing5a</modelName>
+          <modShopLabel>safr36arc_wing5a</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing5b</modelName>
+          <modShopLabel>safr36arc_wing5b</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing5c</modelName>
+          <modShopLabel>safr36arc_wing5c</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing6a</modelName>
+          <modShopLabel>safr36arc_wing6a</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_7</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing6b</modelName>
+          <modShopLabel>safr36arc_wing6b</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_7</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing6c</modelName>
+          <modShopLabel>safr36arc_wing6c</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_7</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing7a</modelName>
+          <modShopLabel>safr36arc_wing7a</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing7b</modelName>
+          <modShopLabel>safr36arc_wing7b</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_wing7c</modelName>
+          <modShopLabel>safr36arc_wing7c</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_hood1b</modelName>
+          <modShopLabel>safr36arc_hood1b</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_hood1c</modelName>
+          <modShopLabel>safr36arc_hood1c</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>safr36arc_hood2a</modelName>
+          <modShopLabel>safr36arc_hood2a</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_hood2b</modelName>
+          <modShopLabel>safr36arc_hood2b</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_hood2c</modelName>
+          <modShopLabel>safr36arc_hood2c</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_hood3a</modelName>
+          <modShopLabel>safr36arc_hood3a</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_hood3b</modelName>
+          <modShopLabel>safr36arc_hood3b</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_hood3c</modelName>
+          <modShopLabel>safr36arc_hood3c</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_hood4a</modelName>
+          <modShopLabel>safr36arc_hood4a</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_hood4b</modelName>
+          <modShopLabel>safr36arc_hood4b</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_hood4c</modelName>
+          <modShopLabel>safr36arc_hood4c</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_hood5a</modelName>
+          <modShopLabel>safr36arc_hood5a</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_hood5b</modelName>
+          <modShopLabel>safr36arc_hood5b</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_hood5c</modelName>
+          <modShopLabel>safr36arc_hood5c</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>null</modelName>
+          <modShopLabel>safr36arc_nohood</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bonnet</Item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>safr36arc_bumr1a</modelName>
+          <modShopLabel>safr36arc_bumr1a</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bumper_r</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_bumr1b</modelName>
+          <modShopLabel>safr36arc_bumr1b</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bumper_r</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_bumr1c</modelName>
+          <modShopLabel>safr36arc_bumr1c</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bumper_r</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>safr36arc_bumr2a</modelName>
+          <modShopLabel>safr36arc_bumr2a</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  <Item>bumper_r</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_bumr2b</modelName>
+          <modShopLabel>safr36arc_bumr2b</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  <Item>bumper_r</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_bumr2c</modelName>
+          <modShopLabel>safr36arc_bumr2c</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  <Item>bumper_r</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>safr36arc_bumr3a</modelName>
+          <modShopLabel>safr36arc_bumr3a</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bumper_r</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_bumr3b</modelName>
+          <modShopLabel>safr36arc_bumr3b</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bumper_r</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_bumr3c</modelName>
+          <modShopLabel>safr36arc_bumr3c</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bumper_r</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>safr36arc_bumf1a</modelName>
+          <modShopLabel>safr36arc_bumf1a</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bumper_f</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_bumf1b</modelName>
+          <modShopLabel>safr36arc_bumf1b</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bumper_f</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_bumf1c</modelName>
+          <modShopLabel>safr36arc_bumf1c</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bumper_f</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>safr36arc_bumf2a</modelName>
+          <modShopLabel>safr36arc_bumf2a</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bumper_f</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_bumf2b</modelName>
+          <modShopLabel>safr36arc_bumf2b</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bumper_f</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_bumf2c</modelName>
+          <modShopLabel>safr36arc_bumf2c</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bumper_f</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>null</modelName>
+          <modShopLabel>safr36arc_nobumf</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>bumper_f</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_trunkb</modelName>
+          <modShopLabel>safr36arc_trunkb</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>mod_a</Item>
+		  </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_trunkc</modelName>
+          <modShopLabel>safr36arc_trunkc</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>mod_a</Item>
+		  </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>safr36arc_mirr1b_l</modelName>
+          <modShopLabel>safr36arc_mirr1b_l</modShopLabel>
+          <linkedModels>
+		  <Item>safr36arc_mirr1b_r</Item>
+          </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_h</Item>
+		  <Item>misc_i</Item>
+		  </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_mirr1c_l</modelName>
+          <modShopLabel>safr36arc_mirr1b_l</modShopLabel>
+          <linkedModels>
+		  <Item>safr36arc_mirr1c_r</Item>
+          </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_h</Item>
+		  <Item>misc_i</Item>
+		  </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_mirr2a_l</modelName>
+          <modShopLabel>safr36arc_mirr2a_l</modShopLabel>
+          <linkedModels>
+		  <Item>safr36arc_mirr2a_r</Item>
+          </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_h</Item>
+		  <Item>misc_i</Item>
+		  </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_mirr2b_l</modelName>
+          <modShopLabel>safr36arc_mirr2b_l</modShopLabel>
+          <linkedModels>
+		  <Item>safr36arc_mirr2b_r</Item>
+          </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_h</Item>
+		  <Item>misc_i</Item>
+		  </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_mirr2c_l</modelName>
+          <modShopLabel>safr36arc_mirr2c_l</modShopLabel>
+          <linkedModels>
+		  <Item>safr36arc_mirr2c_r</Item>
+          </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_h</Item>
+		  <Item>misc_i</Item>
+		  </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_mirr3a_l</modelName>
+          <modShopLabel>safr36arc_mirr3a_l</modShopLabel>
+          <linkedModels>
+		  <Item>safr36arc_mirr3a_r</Item>
+          </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_h</Item>
+		  <Item>misc_i</Item>
+		  </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_mirr3b_l</modelName>
+          <modShopLabel>safr36arc_mirr3b_l</modShopLabel>
+          <linkedModels>
+		  <Item>safr36arc_mirr3b_r</Item>
+          </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_h</Item>
+		  <Item>misc_i</Item>
+		  </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_mirr3c_l</modelName>
+          <modShopLabel>safr36arc_mirr3c_l</modShopLabel>
+          <linkedModels>
+		  <Item>safr36arc_mirr3c_r</Item>
+          </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_h</Item>
+		  <Item>misc_i</Item>
+		  </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>safr36arc_roofb</modelName>
+          <modShopLabel>safr36arc_roofb</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_e</Item>
+		  </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_roofc</modelName>
+          <modShopLabel>safr36arc_roofc</modShopLabel>
+          <linkedModels/>
+		  <turnOffBones>
+		  <Item>misc_e</Item>
+		  </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_fenlb</modelName>
+          <modShopLabel>safr36arc_fenb</modShopLabel>
+          <linkedModels>
+		    <Item>safr36arc_fenrb</Item>
+			</linkedModels>
+		  <turnOffBones>
+		  <Item>wing_rf</Item>
+		  <Item>wing_lf</Item>
+		  </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>wing_lf</bone>
+          <collisionBone>wing_lf</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>safr36arc_fenlc</modelName>
+          <modShopLabel>safr36arc_fenc</modShopLabel>
+          <linkedModels>
+		    <Item>safr36arc_fenrc</Item>
+			</linkedModels>
+		  <turnOffBones>
+		  <Item>wing_rf</Item>
+		  <Item>wing_lf</Item>
+		  </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>wing_lf</bone>
+          <collisionBone>wing_lf</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>null</modelName>
+          <modShopLabel>safr36arc_nofen</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  <Item>wing_rf</Item>
+		  <Item>wing_lf</Item>
+		  </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>wing_lf</bone>
+          <collisionBone>wing_lf</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	</visibleMods>
+	  <linkMods>
+		<Item>
+          <modelName>safr36arc_mirr1b_r</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>safr36arc_mirr1c_r</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>safr36arc_mirr2a_r</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>safr36arc_mirr2b_r</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>safr36arc_mirr2c_r</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>safr36arc_mirr3a_r</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>safr36arc_mirr3b_r</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>safr36arc_mirr3c_r</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>safr36arc_fenrb</modelName>
+          <bone>wing_rf</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>safr36arc_fenrc</modelName>
+          <bone>wing_rf</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>fr36_hdpn_1</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+		</Item>
+	  </linkMods>
+    <statMods>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="70" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="120" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="75" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+    </Item>
+    <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+    </Item>
+    <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+    </Item>
+    <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+    </Item>
+    <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+    </Item>
+    <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+    </Item>
+    <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+    </Item>
+    <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+    </Item>
+    <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+    </Item>
+    <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+    </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+    <Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+    <Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+    <Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>ORGAN_HORN_LOOP_01</identifier>
+          <modifier value="2916775806" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+    <Item>
+          <identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+          <modifier value="3714706952" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>ORGAN_HORN_LOOP_02</identifier>
+          <modifier value="2611860261" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+    <Item>
+          <identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+          <modifier value="3206770359" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LOWRIDER_HORN_1</identifier>
+          <modifier value="310529291" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+    <Item>
+          <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+          <modifier value="2965568987" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LOWRIDER_HORN_2</identifier>
+          <modifier value="55291550" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+    <Item>
+          <identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+          <modifier value="965054819" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>XM15_HORN_01</identifier>
+          <modifier value="55862314" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+    <Item>
+          <identifier>XM15_HORN_01_PREVIEW</identifier>
+          <modifier value="2156743178" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>XM15_HORN_02</identifier>
+          <modifier value="400002352" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+    <Item>
+          <identifier>XM15_HORN_02_PREVIEW</identifier>
+          <modifier value="897484282" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>XM15_HORN_03</identifier>
+          <modifier value="560832604" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+    <Item>
+          <identifier>XM15_HORN_03_PREVIEW</identifier>
+          <modifier value="314232747" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+      <Item>
+          <identifier>DLC_AW_Airhorn_01</identifier>
+          <modifier value="3851180092" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+    <Item>
+          <identifier>DLC_AW_Airhorn_01_Preview</identifier>
+          <modifier value="246182814" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>DLC_AW_Airhorn_02</identifier>
+          <modifier value="3412861948" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+    <Item>
+          <identifier>DLC_AW_Airhorn_02_Preview</identifier>
+          <modifier value="1804608241" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>DLC_AW_Airhorn_03</identifier>
+          <modifier value="3374260066" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+    <Item>
+          <identifier>DLC_AW_Airhorn_03_Preview</identifier>
+          <modifier value="2798044638" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+       <slotNames />
+    <liveryNames />
+      </Item>
+  </Kits>
+</CVehicleModelInfoVarGlobal>
