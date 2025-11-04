@@ -1,7 +1,9 @@
 fx_version 'cerulean'
 games {'gta5'}
 
-
+author 'GOM'
+description 'Pegassi Zentorno'
+version '3.0.0'
 
 data_file 'VEHICLE_LAYOUTS_FILE' 'vehiclelayouts.meta'
 data_file 'HANDLING_FILE' 'handling.meta'
@@ -10,12 +12,9 @@ data_file 'CARCOLS_FILE' 'carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'carvariations.meta'
 
 files {
-  'vehiclelayouts.meta',
+    'vehiclelayouts.meta',
   'handling.meta',
   'vehicles.meta',
   'carcols.meta',
   'carvariations.meta',
 }
-
-client_script 'vehicle_names.lua'
-lua54 'yes'
