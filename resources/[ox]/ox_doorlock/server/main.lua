@@ -1,12 +1,12 @@
 if not LoadResourceFile(cache.resource, 'web/build/index.html') then
 	error(
-		'Unable to load UI. Build ox_doorlock or download the latest release.\n	^3https://github.com/communityox/ox_doorlock/releases/latest/download/ox_doorlock.zip^0')
+		'Unable to load UI. Build ox_doorlock or download the latest release.\n	^3https://github.com/overextended/ox_doorlock/releases/latest/download/ox_doorlock.zip^0')
 end
 
 if not lib.checkDependency('oxmysql', '2.4.0') then return end
-if not lib.checkDependency('ox_lib', '3.30.4') then return end
+if not lib.checkDependency('ox_lib', '3.14.0') then return end
 
-lib.versionCheck('communityox/ox_doorlock')
+lib.versionCheck('overextended/ox_doorlock')
 require 'server.convert'
 
 local utils = require 'server.utils'
@@ -228,10 +228,10 @@ local function isAuthorised(playerId, door, lockpick)
 		if not authorised and door.items then
 			authorised = DoesPlayerHaveItem(player, door.items) or nil
 		end
-	end
 
-	if authorised ~= nil and door.passcode then
-		authorised = door.passcode == lib.callback.await('ox_doorlock:inputPassCode', playerId)
+		if authorised ~= nil and door.passcode then
+			authorised = door.passcode == lib.callback.await('ox_doorlock:inputPassCode', playerId)
+		end
 	end
 
 	return authorised
@@ -343,20 +343,6 @@ end)
 RegisterNetEvent('ox_doorlock:breakLockpick', function()
 	local player = GetPlayer(source)
 	return player and DoesPlayerHaveItem(player, Config.LockpickItems, true)
-end)
-
-RegisterNetEvent('ox_doorlock:teleportToDoor', function(id)
-	if not IsPlayerAceAllowed(source, 'command.doorlock') then
-		return
-	end
-	
-	local door = doors[id]
-	if not door or not door.coords then
-		return
-	end
-	
-	local ped = GetPlayerPed(source)
-	SetEntityCoords(ped, door.coords.x, door.coords.y, door.coords.z, false, false, false, false)
 end)
 
 lib.addCommand('doorlock', {
