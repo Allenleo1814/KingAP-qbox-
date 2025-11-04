@@ -1,0 +1,586 @@
+Config = {}
+
+-- Integrations (recommended to leave as "auto")
+Config.Framework = "auto" -- or "QBCore", "Qbox", "ESX"
+Config.Inventory = "auto" -- or "ox_inventory", "qb-inventory", "esx_inventory", "codem-inventory", "qs-inventory"
+Config.Notifications = "auto" -- or "default", "ox_lib", "lation_ui", "ps-ui", "okokNotify", "nox_notify"
+Config.ProgressBar = "auto" -- or "ox-circle", "ox-bar", "lation_ui", "qb"
+Config.SkillCheck = "auto" -- or "ox", "qb", "lation_ui"
+Config.DrawText = "auto" -- or "jg-textui", "ox_lib", "okokTextUI", "ps-ui", "lation_ui", "qb"
+Config.SocietyBanking = "auto" -- or "okokBanking", "fd_banking", "Renewed-Banking", "tgg-banking", "qb-banking", "qb-management", "esx_addonaccount"
+Config.Menus = "ox" -- or "ox", "lation_ui"
+
+-- Localisation
+Config.Locale = "en"
+Config.NumberAndDateFormat = "en-US"
+Config.Currency = "USD"
+
+-- Set to false to use built-in job system
+Config.UseFrameworkJobs = false
+
+-- Mechanic Tablet
+Config.UseTabletCommand = "mech_tablet" -- set to false to disable command
+Config.TabletConnectionMaxDistance = 4.0
+
+-- Shops
+Config.Target = "qb-management" -- (shops/stashes only) "qb-target" or "ox_target"
+Config.UseSocietyFund = false -- set to false to use player balance
+Config.PlayerBalance = "bank" -- or "bank" or "cash"
+
+-- Skill Bars
+Config.UseSkillbars = false -- set to false to use progress bars instead of skill bars for installations
+Config.ProgressBarDuration = 10000 -- if not using skill bars, this is the progress bar duration in ms (10000 = 10 seconds)
+Config.MaximumSkillCheckAttempts = 3 -- How many times the player can attempt a skill check before the skill check fails
+Config.SkillCheckDifficulty = { "easy", "easy", "easy", "easy", "easy" } -- for ox only
+Config.SkillCheckInputs = { "w", "a", "s", "d" } -- for ox only
+
+-- Servicing
+Config.EnableVehicleServicing = false
+Config.ServiceRequiredThreshold = 20 -- [%] if any of the servicable parts hit this %, it will flag that the vehicle needs servicing 
+Config.ServicingBlacklist = {
+  "police", "police2" -- Vehicles that are excluded from servicing damage
+}
+
+-- Nitrous
+Config.NitrousScreenEffects = true
+Config.NitrousRearLightTrails = true -- Only really visible at night
+Config.NitrousPowerIncreaseMult = 2.0
+Config.NitrousDefaultKeyMapping = "RMENU"
+Config.NitrousMaxBottlesPerVehicle = 3 -- The UI can't really handle more than 7, more than that would be unrealistic anyway
+Config.NitrousBottleDuration = 10 -- [in seconds] How long a nitrous tank lasts
+Config.NitrousBottleCooldown = 5 -- [in seconds] How long until player can start using the next bottle
+Config.NitrousPurgeDrainRate = 0.1 -- purging drains bottle only 10% as fast as actually boosting - set to 1 to drain at the same rate 
+
+-- Stancing
+Config.StanceMinSuspensionHeight = -0.3
+Config.StanceMaxSuspensionHeight = 0.3
+Config.StanceMinCamber = 0.0
+Config.StanceMaxCamber = 0.5
+Config.StanceMinTrackWidth = 0.5
+Config.StanceMaxTrackWidth = 1.25
+Config.StanceNearbyVehiclesFreqMs = 500
+
+-- Repairs
+Config.AllowFixingAtOwnedMechanicsIfNoOneOnDuty = false
+Config.DuctTapeMinimumEngineHealth = 100.0
+Config.DuctTapeEngineHealthIncrease = 150.0
+
+-- Tuning
+Config.TuningGiveInstalledItemBackOnRemoval = true
+
+-- Locations
+Config.UseCarLiftPrompt = "[E] Use car lift"
+Config.UseCarLiftKey = 38
+Config.CustomiseVehiclePrompt = "[E] Customise vehicle"
+Config.CustomiseVehicleKey = 38
+
+-- Update vehicle props whenever they are changed [probably should not touch]
+-- You can set to false to leave saving any usual props vehicle changes such as
+-- GTA performance, cosmetic, colours, wheels, etc to the garage or other scripts
+-- that persist the props data to the database. Additional data from this script,
+-- such as engine swaps, servicing etc is not affected as it's saved differently
+Config.UpdatePropsOnChange = true
+
+-- Stops vehicles from immediately going to redline, for a slightly more realistic feel and
+-- reduced liklihood of wheelspin. Can make vehicle launch (slightly) slower.
+-- No effect on electric vehicles!
+-- May not work immediately for all vehicles; see: https://docs.jgscripts.com/mechanic/manual-transmissions-and-smooth-first-gear#smooth-first-gear
+Config.SmoothFirstGear = false
+
+-- If using a manual gearbox, show a notification with key binds when high RPMs 
+-- have been detected for too long
+Config.ManualHighRPMNotifications = true
+
+-- Misc
+Config.UniqueBlips = true
+Config.ModsPricesAsPercentageOfVehicleValue = true -- Enable pricing tuning items as % of vehicle value - it tries jg-dealerships, then QBShared, then the vehicles meta file automagically for pricing data
+Config.AdminsHaveEmployeePermissions = false -- admins can use tablet & interact with mechanics like an owner
+Config.MechanicEmployeesCanSelfServiceMods = false -- set to true to allow mechanic employees to bypass the "place order" system at their own mechanic
+Config.FullRepairAdminCommand = "vfix"
+Config.MechanicAdminCommand = "mechanicadmin"
+Config.ChangePlateDuringPreview = "PREVIEW"
+Config.RequireManagementForOrderDeletion = false 
+Config.UseCustomNamesInTuningMenu = false
+Config.DisableNoPaymentOptionForEmployees = true
+
+-- Mechanic Locations
+Config.MechanicLocations = {
+  bennys = {
+    type = "self-service",
+    logo = "bennys.png", -- logos go in /logos
+    locations = {
+      {
+        coords = vector3(-211.6, -1324.73, 30.23),
+        size = 8.0,
+        showBlip = true,
+      }
+    },
+    blip = {
+      id = 446,
+      color = 47,
+      scale = 0.7
+    },
+    mods = {
+      repair           = { enabled = true, price = 500, percentVehVal = 0.01 },
+      performance      = { enabled = true, price = 500, percentVehVal = 0.01, priceMult = 0.1 },
+      cosmetics        = { enabled = true, price = 500, percentVehVal = 0.01, priceMult = 0.1 },
+      stance           = { enabled = true, price = 500, percentVehVal = 0.01 },
+      respray          = { enabled = true, price = 500, percentVehVal = 0.01 },
+      wheels           = { enabled = true, price = 500, percentVehVal = 0.01, priceMult = 0.1 },
+      neonLights       = { enabled = true, price = 500, percentVehVal = 0.01 },
+      headlights       = { enabled = true, price = 500, percentVehVal = 0.01 },
+      tyreSmoke        = { enabled = true, price = 500, percentVehVal = 0.01 },
+      bulletproofTyres = { enabled = true, price = 500, percentVehVal = 0.01 },
+      extras           = { enabled = true, price = 500, percentVehVal = 0.01 }
+    },
+  },
+vbtunershop = {
+    type = "owned",
+    job = "mechanic",
+    jobManagementRanks = {4},
+    logo = "vb_tunershop.png",
+    commission = 0, -- %, 10 = 10%
+    locations = {
+      {
+      coords = vector3(-1579.6, -841.1, 10.25),
+      size = 6.5,
+      showBlip = true,
+      employeeOnly = false,
+    },
+      {
+        coords = vector3(-1585.19, -836.32, 10.25),
+        size = 3.0,
+        showBlip = false,
+        employeeOnly = false,
+      },
+      {
+        coords = vector3(-1590.99, -831.36, 10.25),
+        size = 3.0,
+        showBlip = false,
+        employeeOnly = false,
+      },
+      {
+        coords = vector3(-1596.59, -826.49, 10.25),
+        size = 3.0,
+        showBlip = false,
+        employeeOnly = false,
+      },
+      {
+        coords = vector3(-1602.3, -821.43, 10.25),
+        size = 3.0,
+        showBlip = false,
+        employeeOnly = false,
+      },
+      {
+        coords = vector3(-1608.05, -816.61, 10.25),
+        size = 3.0,
+        showBlip = false,
+        employeeOnly = false,
+      },
+      {
+        coords = vector3(-1590.66, -852.82, 10.27),
+        size = 3.0,
+        showBlip = false,
+        employeeOnly = false,
+      },
+      {
+        coords = vector3(-1594.4, -857.81, 10.25),
+        size = 3.0,
+        showBlip = false,
+        employeeOnly = false,
+      },
+    },
+    blip = {
+      id = 446,
+      color = 47,
+      scale = 0.7
+    },
+    mods = {
+      repair           = { enabled = true, price = 500, percentVehVal = 0.01 },
+      performance      = { enabled = true, price = 500, percentVehVal = 0.01, priceMult = 0.1 },
+      cosmetics        = { enabled = true, price = 500, percentVehVal = 0.01, priceMult = 0.1 },
+      stance           = { enabled = true, price = 500, percentVehVal = 0.01 },
+      respray          = { enabled = true, price = 500, percentVehVal = 0.01 },
+      wheels           = { enabled = true, price = 500, percentVehVal = 0.01, priceMult = 0.1 },
+      neonLights       = { enabled = true, price = 500, percentVehVal = 0.01 },
+      headlights       = { enabled = true, price = 500, percentVehVal = 0.01 },
+      tyreSmoke        = { enabled = true, price = 500, percentVehVal = 0.01 },
+      bulletproofTyres = { enabled = true, price = 500, percentVehVal = 0.01 },
+      extras           = { enabled = true, price = 500, percentVehVal = 0.01 }
+    },
+    tuning = {
+      engineSwaps      = { enabled = true, requiresItem = true },
+      drivetrains      = { enabled = true, requiresItem = true },
+      turbocharging    = { enabled = true, requiresItem = true },
+      tyres            = { enabled = true, requiresItem = true },
+      brakes           = { enabled = true, requiresItem = true },
+      driftTuning      = { enabled = true, requiresItem = true },
+      gearboxes        = { enabled = true, requiresItem = true },
+    },
+    carLifts = { -- only usable by employees
+      vector4(-1613.13, -811.52, 10.25, 136.88),
+      vector4(-1618.19, -846.54, 10.14, 51.01)
+    },
+    shops = {
+      {
+        name = "Servicing Supplies",
+        coords = vector3(-1577.72, -838.92, 10.25),
+        size = 2.0,
+        usePed = false,
+        pedModel = "s_m_m_lathandy_01",
+        marker = { id = 21, size = { x = 0.3, y = 0.3, z = 0.3 }, color = { r = 255, g = 255, b = 255, a = 120 }, bobUpAndDown = 0, faceCamera = 0, rotate = 1, drawOnEnts = 0 },
+        items = {
+          { name = "engine_oil", label = "Engine Oil", price = 50 },
+          { name = "tyre_replacement", label = "Tyre Replacement", price = 2500 },
+          { name = "clutch_replacement", label = "Clutch Replacement", price = 3000 },
+          { name = "air_filter", label = "Air Filter", price = 300 },
+          { name = "spark_plug", label = "Spark Plug", price = 100 },
+          { name = "suspension_parts", label = "Suspension Parts", price = 2500 },
+          { name = "brakepad_replacement", label = "Brakepad Replacement", price = 1500 },
+          { name = "repair_kits", label = "Repair Kits", price = 1500 },
+        },
+      },
+      {
+        name = "Advanced Upgrades",
+        coords = vector3(-1584.01, -851.6, 10.25),
+        size = 2.0,
+        usePed = false,
+        pedModel = "s_m_m_lathandy_01",
+        marker = { id = 21, size = { x = 0.3, y = 0.3, z = 0.3 }, color = { r = 255, g = 255, b = 255, a = 120 }, bobUpAndDown = 0, faceCamera = 0, rotate = 1, drawOnEnts = 0 },
+        items = {
+          { name = "turbocharger", label = "Turbo Charger", price = 25000 },
+          { name = "i4_engine", label = "I4 Engine Upgrade", price = 40000 },
+          { name = "v6_engine", label = "V6 Engine Upgrade", price = 40000 },
+          { name = "v8_engine", label = "V8 Engine Upgrade", price = 40000 },
+          { name = "v12_engine", label = "V12 Engine Upgrade", price = 40000 },
+          { name = "ceramic_brakes", label = "Ceramic Brakes", price = 15000 },
+          { name = "slick_tyres", label = "Slick Tyres", price = 10000},
+          { name = "semi_slick_tyres", label = "Semi Slick Tyres", price = 10000},
+          { name = "slick_tyres", label = "Slick Tyres", price = 10000},
+          { name = "drift_tuning_kit", label = "Drift Tuning Kit", price = 10000},
+          { name = "awd_drivetrain", label = "AWD Drivetrain", price = 10000},
+          { name = "rwd_drivetrain", label = "RWD Drivetrain", price = 10000},
+          { name = "fwd_drivetrain", label = "FWD Drivetrain", price = 10000},
+          { name = "performance_part", label = "Performance Part", price = 10000},
+        },
+      },
+      {
+        name = "Cosmetics",
+        coords = vector3 (-1582.55,-848.76,10.25),
+        size = 2.0,
+        usePed = false,
+        pedModel = "s_m_m_lathandy_01",
+        marker = {id = 21, size = {x = 0.3, y = 0.3, z = 0.3}},
+        items = {
+          {name = "cosmetic_part", label = "Cosmetic Part", price = 1000},
+          {name = "extras_kit", label = "Extras Kit", price = 1000},
+          {name = "stancing_kit", label = "Stancing Kit", price = 1000},
+          {name = "vehicle_wheels", label = "Vehicle Wheels", price = 1000},
+          {name = "tyre_smoke_kit", label = "Tyre Smoke Kit", price = 1000},
+          {name = "respray_kit", label = "Respray Kit", price = 1000},
+          {name = "lighting_controller", label = "Lighting Controller", price = 1000},
+          {name = "bulletproof_tyres", label = "Bulletproof Tyres", price = 1000},
+          {name = "nitrous_oxide", label = "Nitrous Oxide", price = 1000},
+          {name = "nitrous_install_kit", label = "Nitrous Install Kit", price = 1000},
+          {name = "empty_nitrous_bottle", label = "Empty Nitrous Bottle", price = 500},
+          {name = "full_nitrous_bottle", label = "Full Nitrous Bottle", price = 1500},
+        },
+      },
+    },
+    stashes = {
+      {
+        name = "Parts Bin",
+        coords = vector3(-1589.08, -829.12, 10.25),
+        size = 2.0,
+        usePed = false,
+        pedModel = "s_m_m_lathandy_01",
+        marker = { id = 21, size = { x = 0.3, y = 0.3, z = 0.3 }, color = { r = 255, g = 255, b = 255, a = 120 }, bobUpAndDown = 0, faceCamera = 0, rotate = 1, drawOnEnts = 0 },
+        slots = 1000,
+        weight = 500000000,
+      },
+      {
+        name = "Tuning Parts Bin",
+        coords = vector3(-1594.68, -824.44, 10.25),
+        size = 2.0,
+        usePed = false,
+        pedModel = "s_m_m_lathandy_01",
+        marker = { id = 21, size = { x = 0.3, y = 0.3, z = 0.3 }, color = { r = 255, g = 255, b = 255, a = 120 }, bobUpAndDown = 0, faceCamera = 0, rotate = 1, drawOnEnts = 0 },
+        slots = 1000,
+        weight = 500000000,
+      },
+    }
+},
+autoexotic = {
+    type = "owned",
+    job = "mechanic",
+    jobManagementRanks = {4},
+    logo = "autoexotic.png",
+    commission = 0, -- %, 10 = 10%
+    locations = {
+      {
+        coords = vector3(544.13, -179.54, 53.77),
+        size = 6.5,
+        showBlip = true,
+      },
+      {
+        coords = vector3(537.37, -169.35, 53.77),
+        size = 3.0,
+        showBlip = false,
+        employeeOnly = false,
+      },
+      {
+        coords = vector3(545.33, -189.58, 53.77),
+        size = 3.0,
+        showBlip = false,
+        employeeOnly = false,
+      },
+      {
+        coords = vector3(548.38, -199, 54.49),
+        size = 3.0,
+        showBlip = false,
+        employeeOnly = false,
+      },
+      {
+        coords = vector3(528.37, -174.76, 53.74),
+        size = 3.0,
+        showBlip = false,
+        employeeOnly = false,
+      },
+    },
+    blip = {
+      id = 446,
+      color = 47,
+      scale = 0.7
+    },
+    mods = {
+      repair           = { enabled = true, price = 500, percentVehVal = 0.01 },
+      performance      = { enabled = true, price = 500, percentVehVal = 0.01, priceMult = 0.1 },
+      cosmetics        = { enabled = true, price = 500, percentVehVal = 0.01, priceMult = 0.1 },
+      stance           = { enabled = true, price = 500, percentVehVal = 0.01 },
+      respray          = { enabled = true, price = 500, percentVehVal = 0.01 },
+      wheels           = { enabled = true, price = 500, percentVehVal = 0.01, priceMult = 0.1 },
+      neonLights       = { enabled = true, price = 500, percentVehVal = 0.01 },
+      headlights       = { enabled = true, price = 500, percentVehVal = 0.01 },
+      tyreSmoke        = { enabled = true, price = 500, percentVehVal = 0.01 },
+      bulletproofTyres = { enabled = true, price = 500, percentVehVal = 0.01 },
+      extras           = { enabled = true, price = 500, percentVehVal = 0.01 }
+    },
+    tuning = {
+      engineSwaps      = { enabled = true, requiresItem = true },
+      drivetrains      = { enabled = true, requiresItem = true },
+      turbocharging    = { enabled = true, requiresItem = true },
+      tyres            = { enabled = true, requiresItem = true },
+      brakes           = { enabled = true, requiresItem = true },
+      driftTuning      = { enabled = true, requiresItem = true },
+      gearboxes        = { enabled = true, requiresItem = true },
+    },
+    carLifts = { -- only usable by employees
+      vector4(528.37, -174.76, 53.74, 182.26),
+      vector4(537.37, -169.35, 53.77, 177.55)
+    },
+    shops = {
+      {
+        name = "Servicing Supplies",
+        coords = vector3(542.52, -184.8, 54.49),
+        size = 2.0,
+        usePed = false,
+        pedModel = "s_m_m_lathandy_01",
+        marker = { id = 21, size = { x = 0.3, y = 0.3, z = 0.3 }, color = { r = 255, g = 255, b = 255, a = 120 }, bobUpAndDown = 0, faceCamera = 0, rotate = 1, drawOnEnts = 0 },
+        items = {
+          { name = "engine_oil", label = "Engine Oil", price = 50 },
+          { name = "tyre_replacement", label = "Tyre Replacement", price = 2500 },
+          { name = "clutch_replacement", label = "Clutch Replacement", price = 3000 },
+          { name = "air_filter", label = "Air Filter", price = 300 },
+          { name = "spark_plug", label = "Spark Plug", price = 100 },
+          { name = "suspension_parts", label = "Suspension Parts", price = 2500 },
+          { name = "brakepad_replacement", label = "Brakepad Replacement", price = 1500 },
+          { name = "repair_kits", label = "Repair Kits", price = 1500 },
+        },
+      },
+      {
+        name = "Cosmetics",
+        coords = vector3 (546.49,-166.69,54.49),
+        size = 2.0,
+        usePed = false,
+        pedModel = "s_m_m_lathandy_01",
+        marker = {id = 21, size = {x = 0.3, y = 0.3, z = 0.3}},
+        items = {
+          {name = "cosmetic_part", label = "Cosmetic Part", price = 1000},
+          {name = "extras_kit", label = "Extras Kit", price = 1000},
+          {name = "stancing_kit", label = "Stancing Kit", price = 1000},
+          {name = "vehicle_wheels", label = "Vehicle Wheels", price = 1000},
+          {name = "tyre_smoke_kit", label = "Tyre Smoke Kit", price = 1000},
+          {name = "respray_kit", label = "Respray Kit", price = 1000},
+          {name = "lighting_controller", label = "Lighting Controller", price = 1000},
+          {name = "bulletproof_tyres", label = "Bulletproof Tyres", price = 1000},
+          {name = "nitrous_oxide", label = "Nitrous Oxide", price = 1000},
+          {name = "nitrous_install_kit", label = "Nitrous Install Kit", price = 1000},
+          {name = "empty_nitrous_bottle", label = "Empty Nitrous Bottle", price = 500},
+          {name = "full_nitrous_bottle", label = "Full Nitrous Bottle", price = 1500},
+        },
+      },
+      {
+        name = "Repair Kits",
+        coords = vector3(550.78, -175.68, 54.59),
+        size = 2.0,
+        usePed = false,
+        pedModel = "s_m_m_lathandy_01",
+        marker = { id = 21, size = {x = 0.3, y = 0.3, z = 0.3}},
+        items = {
+          {name = "repair_kit", label = "Repair Kit", price = 100},
+      },
+    }, 
+      {
+        name = "Advanced Upgrades",
+        coords = vector3(547.29, -183.4, 54.49),
+        size = 2.0,
+        usePed = false,
+        pedModel = "s_m_m_lathandy_01",
+        marker = { id = 21, size = { x = 0.3, y = 0.3, z = 0.3 }, color = { r = 255, g = 255, b = 255, a = 120 }, bobUpAndDown = 0, faceCamera = 0, rotate = 1, drawOnEnts = 0 },
+        items = {
+          { name = "turbocharger", label = "Turbo Charger", price = 25000 },
+          { name = "i4_engine", label = "I4 Engine Upgrade", price = 40000 },
+          { name = "v6_engine", label = "V6 Engine Upgrade", price = 40000 },
+          { name = "v8_engine", label = "V8 Engine Upgrade", price = 40000 },
+          { name = "v12_engine", label = "V12 Engine Upgrade", price = 40000 },
+          { name = "ceramic_brakes", label = "Ceramic Brakes", price = 15000 },
+          { name = "slick_tyres", label = "Slick Tyres", price = 10000},
+          { name = "semi_slick_tyres", label = "Semi Slick Tyres", price = 10000},
+          { name = "slick_tyres", label = "Slick Tyres", price = 10000},
+          { name = "drift_tuning_kit", label = "Drift Tuning Kit", price = 10000},
+          { name = "awd_drivetrain", label = "AWD Drivetrain", price = 10000},
+          { name = "rwd_drivetrain", label = "RWD Drivetrain", price = 10000},
+          { name = "fwd_drivetrain", label = "FWD Drivetrain", price = 10000},
+          { name = "performance_part", label = "Performance Part", price = 10000},
+        },
+      }
+    },
+    stashes = {
+      {
+        name = "Parts Bin",
+        coords = vector3(549.81, -168.73, 54.49),
+        size = 2.0,
+        usePed = false,
+        pedModel = "s_m_m_lathandy_01",
+        marker = { id = 21, size = { x = 0.3, y = 0.3, z = 0.3 }, color = { r = 255, g = 255, b = 255, a = 120 }, bobUpAndDown = 0, faceCamera = 0, rotate = 1, drawOnEnts = 0 },
+        slots = 1000,
+        weight = 500000000,
+      },
+    }
+  },
+}
+ lscustoms = {
+    type = "owned",
+    job = "mechanic",
+    jobManagementRanks = {4},
+    logo = "ls_customs.png",
+    commission = 0, -- %, 10 = 10%
+    locations = {
+      {
+        coords = vector3(-337.25, -137.2, 38.35),
+        size = 6.5,
+        showBlip = true,
+      },
+      {
+        coords = vector3(-324.2, -132.0, 38.54),
+        size = 3.0,
+        showBlip = false,
+        employeeOnly = true,
+      }
+    },
+    blip = {
+      id = 446,
+      color = 47,
+      scale = 0.7
+    },
+    mods = {
+      repair           = { enabled = true, price = 500, percentVehVal = 0.01 },
+      performance      = { enabled = true, price = 500, percentVehVal = 0.01, priceMult = 0.1 },
+      cosmetics        = { enabled = true, price = 500, percentVehVal = 0.01, priceMult = 0.1 },
+      stance           = { enabled = true, price = 500, percentVehVal = 0.01 },
+      respray          = { enabled = true, price = 500, percentVehVal = 0.01 },
+      wheels           = { enabled = true, price = 500, percentVehVal = 0.01, priceMult = 0.1 },
+      neonLights       = { enabled = true, price = 500, percentVehVal = 0.01 },
+      headlights       = { enabled = true, price = 500, percentVehVal = 0.01 },
+      tyreSmoke        = { enabled = true, price = 500, percentVehVal = 0.01 },
+      bulletproofTyres = { enabled = true, price = 500, percentVehVal = 0.01 },
+      extras           = { enabled = true, price = 500, percentVehVal = 0.01 }
+    },
+    tuning = {
+      engineSwaps      = { enabled = true, requiresItem = true },
+      drivetrains      = { enabled = true, requiresItem = true },
+      turbocharging    = { enabled = true, requiresItem = true },
+      tyres            = { enabled = true, requiresItem = true },
+      brakes           = { enabled = true, requiresItem = true },
+      driftTuning      = { enabled = true, requiresItem = true },
+      gearboxes        = { enabled = true, requiresItem = true },
+    },
+    carLifts = { -- only usable by employees
+      vector4(-357.45, -114.17, 38.7, 339.89)
+    },
+    shops = {
+      {
+        name = "Servicing Supplies",
+        coords = vector3(-345.54, -131.32, 39.01),
+        size = 2.0,
+        usePed = false,
+        pedModel = "s_m_m_lathandy_01",
+        marker = { id = 21, size = { x = 0.3, y = 0.3, z = 0.3 }, color = { r = 255, g = 255, b = 255, a = 120 }, bobUpAndDown = 0, faceCamera = 0, rotate = 1, drawOnEnts = 0 },
+        items = {
+          { name = "engine_oil", label = "Engine Oil", price = 50 },
+          { name = "tyre_replacement", label = "Tyre Replacement", price = 2500 },
+          { name = "clutch_replacement", label = "Clutch Replacement", price = 3000 },
+          { name = "air_filter", label = "Air Filter", price = 300 },
+          { name = "spark_plug", label = "Spark Plug", price = 100 },
+          { name = "suspension_parts", label = "Suspension Parts", price = 2500 },
+          { name = "brakepad_replacement", label = "Brakepad Replacement", price = 1500 },
+        },
+      },
+      {
+        name = "Advanced Upgrades",
+        coords = vector3(-343.79, -139.92, 39.01),
+        size = 2.0,
+        usePed = false,
+        pedModel = "s_m_m_lathandy_01",
+        marker = { id = 21, size = { x = 0.3, y = 0.3, z = 0.3 }, color = { r = 255, g = 255, b = 255, a = 120 }, bobUpAndDown = 0, faceCamera = 0, rotate = 1, drawOnEnts = 0 },
+        items = {
+          { name = "turbocharger", label = "Turbo Charger", price = 25000 },
+          { name = "v8_engine", label = "V8 Engine Upgrade", price = 40000 },
+          { name = "ceramic_brakes", label = "Ceramic Brakes", price = 15000 },
+        },
+      }
+    },
+    stashes = {
+      {
+        name = "Parts Bin",
+        coords = vector3(-339.24, -132.2, 39.01),
+        size = 2.0,
+        usePed = false,
+        pedModel = "s_m_m_lathandy_01",
+        marker = { id = 21, size = { x = 0.3, y = 0.3, z = 0.3 }, color = { r = 255, g = 255, b = 255, a = 120 }, bobUpAndDown = 0, faceCamera = 0, rotate = 1, drawOnEnts = 0 },
+        slots = 10,
+        weight = 50000,
+      },
+    }
+  }
+
+-- Add electric vehicles to disable combustion engine features
+-----------------------------------------------------------------------
+-- PLEASE NOTE: In b3258 (Bottom Dollar Bounties) and newer, electric
+-- vehicles are detected automatically, so this list is not used! 
+Config.ElectricVehicles = {
+  "Airtug",     "buffalo5",   "caddy",
+  "Caddy2",     "caddy3",     "coureur",
+  "cyclone",    "cyclone2",   "imorgon",
+  "inductor",   "iwagen",     "khamelion",
+  "metrotrain", "minitank",   "neon",
+  "omnisegt",   "powersurge", "raiden",
+  "rcbandito",  "surge",      "tezeract",
+  "virtue",     "vivanite",   "voltic",
+  "voltic2",
+}
+
+-- Nerd options
+Config.DisableSound = false
+Config.AutoRunSQL = true
+Config.Debug = false
