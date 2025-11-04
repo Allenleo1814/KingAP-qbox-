@@ -1,5 +1,5 @@
 return {
-    autoRespawn = false, -- True == auto respawn cars that are outside into your garage on script restart, false == does not put them into your garage and players have to go to the impound
+    autoRespawn = true, -- True == auto respawn cars that are outside into your garage on script restart, false == does not put them into your garage and players have to go to the impound
     warpInVehicle = false, -- If false, player will no longer warp into vehicle upon taking the vehicle out.
     doorsLocked = true, -- If true, the doors will be locked upon taking the vehicle out.
     distanceCheck = 5.0, -- The distance that needs to bee clear to let the vehicle spawn, this prevents vehicles stacking on top of each other
@@ -38,6 +38,36 @@ return {
     ---@type table<string, GarageConfig>
     garages = {
         -- Public Garages
+        vbts = {
+            label = 'VB',
+            vehicleType = VehicleType.CAR,
+            accessPoints = {
+                {
+                    blip = {
+                        name = 'Public Parking',
+                        sprite = 357,
+                        color = 3,
+                    },
+                    coords = vec4(-1619.14, -853.63, 9.42, 139.44),
+                    spawn = vec4(-1619.14, -853.63, 9.42, 139.44),
+                }
+            },
+        },
+        autoexotic = {
+            label = 'AE',
+            vehicleType = VehicleType.CAR,
+            accessPoints = {
+                {
+                    blip = {
+                        name = 'Public Parking',
+                        sprite = 357,
+                        color = 3,
+                    },
+                    coords = vec4(543.2, -206.95, 53.47, 181.11),
+                    spawn = vec4(543.2, -206.95, 53.47, 181.11),
+                }
+            },
+        },
         motelgarage = {
             label = 'Motel Parking',
             vehicleType = VehicleType.CAR,
@@ -351,6 +381,7 @@ return {
                 }
             },
         },
+
 
         -- Gang Garages
         ballas = {

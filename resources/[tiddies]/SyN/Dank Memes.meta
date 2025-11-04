@@ -1,0 +1,17 @@
+YOU JUST GOT PRANKED, NO MEMES FOR YOU. Tis just a read me.
+
+
+Visual V install:
+Graphics.ytd
+mods\update\update.rpf\x64\textures
+
+Visualsettings
+\mods\update\update.rpf\common\data
+
+
+Regular install:
+Corona
+mods\x64a.rpf\textures open graphics.ytd and replace the original corona. Then click save. 
+
+Visualsettings
+\mods\update\update.rpf\common\data
