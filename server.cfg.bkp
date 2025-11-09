@@ -88,6 +88,7 @@ ensure [goms]
 ensure [mapmods]
 ensure [caraudio]
 ensure [engine]
+ensure [tiddies]
 
 ensure [npwd-apps]
 ensure qbx_npwd
@@ -97,7 +98,8 @@ start [Mapmods]
 start [car]
 start [goms]
 start [jg]
-
+start [racing]
+start [tiddies]
 ## Permissions ##
 add_principal identifier.fivem:6899223 group.admin #Allenleo1814
 exec permissions.cfg
