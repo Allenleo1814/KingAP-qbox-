@@ -636,3 +636,6 @@
 {"level":"silly","message":{"data":{"bio":"","createdAt":"2025-11-04T06:52:36.000Z","id":1,"identifier":"W25S72HR","image":"https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg","job":"","lastActive":1762239156,"lastActiveFormatted":"Tue, 04 Nov 2025 06:52:36 GMT","location":"","name":"Allen Perez","tagList":[],"tags":"","updatedAt":"2025-11-04T06:52:36.000Z","viewed":false,"voiceMessage":null},"status":"ok"},"module":"events","timestamp":"2025-11-14T22:05:54.179Z"}
 {"level":"silly","message":"Response Promise Event npwd-contact-getAll:b894e0d9-ab35-4a84-b1dd-3c9f14befacb (33.556ms), Data >>","module":"events","timestamp":"2025-11-14T22:05:54.179Z"}
 {"level":"silly","message":{"data":[],"status":"ok"},"module":"events","timestamp":"2025-11-14T22:05:54.179Z"}
+{"level":"info","message":"Executed query (SELECT id FROM npwd_marketplace_listings WHERE identifier = ? [\"W25S72HR\"]) in 16.2493ms'","module":"DBInterface","timestamp":"2025-11-14T22:20:12.509Z"}
+{"level":"info","message":"Executed query (DELETE FROM npwd_marketplace_listings WHERE identifier = ? AND reported = 0 [\"W25S72HR\"]) in 0.9793ms'","module":"DBInterface","timestamp":"2025-11-14T22:20:12.510Z"}
+{"level":"info","message":"Unloaded NPWD Player, source: (1)","module":"player","timestamp":"2025-11-14T22:20:12.510Z"}
